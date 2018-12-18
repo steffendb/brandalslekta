@@ -1,0 +1,2018 @@
+user    0m11.314s
+sys     0m0.521s
+slekta_fra_brandal/image0000003A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m13.365s
+user    0m13.452s
+sys     0m0.547s
+slekta_fra_brandal/image0000003B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+^C
+~/dev/bok sh run.sh
+slekta_fra_brandal/image0000002A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m14.590s
+user    0m16.038s
+sys     0m0.690s
+slekta_fra_brandal/image0000003A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m16.402s
+user    0m15.678s
+sys     0m0.770s
+slekta_fra_brandal/image0000004A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m35.289s
+user    0m50.455s
+sys     0m0.924s
+slekta_fra_brandal/image0000004B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m14.815s
+user    0m16.063s
+sys     0m0.779s
+slekta_fra_brandal/image0000005A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m33.769s
+user    0m52.882s
+sys     0m0.926s
+slekta_fra_brandal/image0000005B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 159 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m33.646s
+user    0m52.045s
+sys     0m0.969s
+slekta_fra_brandal/image0000006A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m39.948s
+user    0m59.440s
+sys     0m0.953s
+slekta_fra_brandal/image0000006B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m33.649s
+user    0m54.022s
+sys     0m0.909s
+slekta_fra_brandal/image0000007A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m36.360s
+user    1m0.738s
+sys     0m1.053s
+slekta_fra_brandal/image0000007B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m35.743s
+user    0m55.491s
+sys     0m0.879s
+slekta_fra_brandal/image0000008A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m46.665s
+user    1m18.676s
+sys     0m1.010s
+slekta_fra_brandal/image0000008B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.986s
+user    0m33.317s
+sys     0m0.802s
+slekta_fra_brandal/image0000009A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m39.988s
+user    1m6.010s
+sys     0m1.048s
+slekta_fra_brandal/image0000009B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 15 diacritics
+
+real    0m41.764s
+user    1m4.468s
+sys     0m1.052s
+slekta_fra_brandal/image0000010A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 72 diacritics
+
+real    0m29.594s
+user    0m44.934s
+sys     0m0.991s
+slekta_fra_brandal/image0000010B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m32.738s
+user    0m53.268s
+sys     0m0.910s
+slekta_fra_brandal/image0000011A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 55 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m31.594s
+user    0m49.886s
+sys     0m0.996s
+slekta_fra_brandal/image0000011B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 75 diacritics
+
+real    0m29.426s
+user    0m46.329s
+sys     0m1.036s
+slekta_fra_brandal/image0000012A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.586s
+user    0m46.906s
+sys     0m0.904s
+slekta_fra_brandal/image0000012B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m31.120s
+user    0m50.011s
+sys     0m1.047s
+slekta_fra_brandal/image0000013A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 50 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m30.132s
+user    0m45.630s
+sys     0m0.787s
+slekta_fra_brandal/image0000013B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.958s
+user    0m46.247s
+sys     0m0.965s
+slekta_fra_brandal/image0000014A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m15.387s
+user    0m19.382s
+sys     0m0.726s
+slekta_fra_brandal/image0000014B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.015s
+user    0m39.842s
+sys     0m0.809s
+slekta_fra_brandal/image0000015A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m31.256s
+user    0m50.045s
+sys     0m1.043s
+slekta_fra_brandal/image0000015B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m31.569s
+user    0m54.870s
+sys     0m1.020s
+slekta_fra_brandal/image0000016A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.188s
+user    0m45.264s
+sys     0m0.794s
+slekta_fra_brandal/image0000016B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m20.399s
+user    0m29.066s
+sys     0m0.851s
+slekta_fra_brandal/image0000017A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 51 diacritics
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m30.341s
+user    0m47.457s
+sys     0m0.947s
+slekta_fra_brandal/image0000017B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m20.554s
+user    0m28.605s
+sys     0m0.844s
+slekta_fra_brandal/image0000018A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.356s
+user    0m33.386s
+sys     0m0.824s
+slekta_fra_brandal/image0000018B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m20.575s
+user    0m29.893s
+sys     0m0.726s
+slekta_fra_brandal/image0000019A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 26 diacritics
+
+real    0m30.625s
+user    0m48.372s
+sys     0m0.911s
+slekta_fra_brandal/image0000019B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m12.057s
+user    0m13.527s
+sys     0m0.693s
+slekta_fra_brandal/image0000020A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.726s
+user    0m39.263s
+sys     0m0.833s
+slekta_fra_brandal/image0000020B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.298s
+user    0m42.908s
+sys     0m0.899s
+slekta_fra_brandal/image0000021A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.324s
+user    0m30.929s
+sys     0m0.770s
+slekta_fra_brandal/image0000021B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 96 diacritics
+
+real    0m26.350s
+user    0m42.641s
+sys     0m0.964s
+slekta_fra_brandal/image0000022A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.147s
+user    0m33.168s
+sys     0m0.900s
+slekta_fra_brandal/image0000022B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    5m27.692s
+user    13m57.866s
+sys     0m2.694s
+slekta_fra_brandal/image0000023A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.838s
+user    0m31.391s
+sys     0m0.837s
+slekta_fra_brandal/image0000023B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 54 diacritics
+
+real    0m26.794s
+user    0m46.148s
+sys     0m0.894s
+slekta_fra_brandal/image0000024A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.121s
+user    0m48.205s
+sys     0m0.942s
+slekta_fra_brandal/image0000024B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.768s
+user    0m33.981s
+sys     0m0.890s
+slekta_fra_brandal/image0000025A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 22 diacritics
+
+real    0m31.519s
+user    0m49.208s
+sys     0m0.913s
+slekta_fra_brandal/image0000025B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 46 diacritics
+
+real    0m26.711s
+user    0m43.109s
+sys     0m0.852s
+slekta_fra_brandal/image0000026A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m32.435s
+user    0m52.447s
+sys     0m0.986s
+slekta_fra_brandal/image0000026B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m21.967s
+user    0m34.920s
+sys     0m0.838s
+slekta_fra_brandal/image0000027A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m28.404s
+user    0m44.629s
+sys     0m0.943s
+slekta_fra_brandal/image0000027B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m18.255s
+user    0m25.559s
+sys     0m0.847s
+slekta_fra_brandal/image0000028A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m21.066s
+user    0m30.517s
+sys     0m0.830s
+slekta_fra_brandal/image0000028B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.034s
+user    0m42.439s
+sys     0m0.890s
+slekta_fra_brandal/image0000029A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 29 diacritics
+
+real    0m26.598s
+user    0m45.780s
+sys     0m0.878s
+slekta_fra_brandal/image0000029B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 137 diacritics
+
+real    0m26.839s
+user    0m43.828s
+sys     0m0.944s
+slekta_fra_brandal/image0000030A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.124s
+user    0m49.591s
+sys     0m0.972s
+slekta_fra_brandal/image0000030B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.219s
+user    0m40.015s
+sys     0m0.975s
+slekta_fra_brandal/image0000031A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m27.080s
+user    0m45.276s
+sys     0m0.921s
+slekta_fra_brandal/image0000031B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m21.254s
+user    0m31.866s
+sys     0m0.860s
+slekta_fra_brandal/image0000032A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m29.676s
+user    0m49.209s
+sys     0m0.942s
+slekta_fra_brandal/image0000032B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.225s
+user    0m40.226s
+sys     0m0.900s
+slekta_fra_brandal/image0000033A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.293s
+user    0m43.872s
+sys     0m1.000s
+slekta_fra_brandal/image0000033B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 31 diacritics
+
+real    0m25.118s
+user    0m42.355s
+sys     0m0.932s
+slekta_fra_brandal/image0000034A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 65 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m28.355s
+user    0m47.969s
+sys     0m1.040s
+slekta_fra_brandal/image0000034B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 55 diacritics
+
+real    0m18.926s
+user    0m28.333s
+sys     0m0.877s
+slekta_fra_brandal/image0000035A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 22 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m21.931s
+user    0m33.556s
+sys     0m0.834s
+slekta_fra_brandal/image0000035B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m18.994s
+user    0m27.230s
+sys     0m0.809s
+slekta_fra_brandal/image0000036A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 29 diacritics
+
+real    0m25.885s
+user    0m43.678s
+sys     0m1.013s
+slekta_fra_brandal/image0000036B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.210s
+user    0m43.125s
+sys     0m0.983s
+slekta_fra_brandal/image0000037A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.598s
+user    0m44.954s
+sys     0m0.875s
+slekta_fra_brandal/image0000037B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 54 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.349s
+user    0m43.647s
+sys     0m0.992s
+slekta_fra_brandal/image0000038A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 54 diacritics
+
+real    0m27.066s
+user    0m43.176s
+sys     0m0.892s
+slekta_fra_brandal/image0000038B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.529s
+user    0m41.009s
+sys     0m0.909s
+slekta_fra_brandal/image0000039A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.490s
+user    0m44.276s
+sys     0m0.961s
+slekta_fra_brandal/image0000039B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 94 diacritics
+
+real    0m25.601s
+user    0m42.053s
+sys     0m0.841s
+slekta_fra_brandal/image0000040A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m29.467s
+user    0m52.234s
+sys     0m0.943s
+slekta_fra_brandal/image0000040B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.004s
+user    0m39.825s
+sys     0m1.014s
+slekta_fra_brandal/image0000041A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 129 diacritics
+
+real    0m24.787s
+user    0m39.554s
+sys     0m0.898s
+slekta_fra_brandal/image0000041B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.720s
+user    0m44.039s
+sys     0m0.915s
+slekta_fra_brandal/image0000042A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.763s
+user    0m42.272s
+sys     0m0.882s
+slekta_fra_brandal/image0000042B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.248s
+user    0m40.700s
+sys     0m0.887s
+slekta_fra_brandal/image0000043A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.020s
+user    0m40.757s
+sys     0m0.918s
+slekta_fra_brandal/image0000043B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.878s
+user    0m44.487s
+sys     0m1.057s
+slekta_fra_brandal/image0000044A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m27.457s
+user    0m48.519s
+sys     0m1.023s
+slekta_fra_brandal/image0000044B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.237s
+user    0m42.612s
+sys     0m0.940s
+slekta_fra_brandal/image0000045A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.617s
+user    0m45.038s
+sys     0m1.050s
+slekta_fra_brandal/image0000045B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m20.102s
+user    0m27.670s
+sys     0m0.826s
+slekta_fra_brandal/image0000046A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m27.052s
+user    0m45.688s
+sys     0m0.897s
+slekta_fra_brandal/image0000046B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m20.707s
+user    0m33.604s
+sys     0m0.891s
+slekta_fra_brandal/image0000047A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m18.681s
+user    0m27.449s
+sys     0m0.847s
+slekta_fra_brandal/image0000047B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m18.883s
+user    0m29.554s
+sys     0m0.835s
+slekta_fra_brandal/image0000048A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.076s
+user    0m43.678s
+sys     0m0.940s
+slekta_fra_brandal/image0000048B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 59 diacritics
+
+real    0m23.252s
+user    0m39.066s
+sys     0m0.918s
+slekta_fra_brandal/image0000049A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.335s
+user    0m41.788s
+sys     0m0.956s
+slekta_fra_brandal/image0000049B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 37 diacritics
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.594s
+user    0m41.018s
+sys     0m0.947s
+slekta_fra_brandal/image0000050A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 61 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m22.738s
+user    0m36.387s
+sys     0m0.814s
+slekta_fra_brandal/image0000050B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.787s
+user    0m42.708s
+sys     0m0.964s
+slekta_fra_brandal/image0000051A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 88 diacritics
+
+real    0m25.625s
+user    0m45.937s
+sys     0m0.951s
+slekta_fra_brandal/image0000051B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m21.412s
+user    0m32.235s
+sys     0m0.879s
+slekta_fra_brandal/image0000052A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m19.397s
+user    0m27.938s
+sys     0m0.795s
+slekta_fra_brandal/image0000052B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m19.665s
+user    0m30.504s
+sys     0m0.805s
+slekta_fra_brandal/image0000053A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.810s
+user    0m45.953s
+sys     0m1.033s
+slekta_fra_brandal/image0000053B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.564s
+user    0m46.820s
+sys     0m1.055s
+slekta_fra_brandal/image0000054A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.479s
+user    0m48.045s
+sys     0m0.994s
+slekta_fra_brandal/image0000054B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.782s
+user    0m40.757s
+sys     0m0.988s
+slekta_fra_brandal/image0000055A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.629s
+user    0m40.273s
+sys     0m0.963s
+slekta_fra_brandal/image0000055B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.456s
+user    0m41.911s
+sys     0m1.028s
+slekta_fra_brandal/image0000056A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.344s
+user    0m44.117s
+sys     0m0.947s
+slekta_fra_brandal/image0000056B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.532s
+user    0m42.887s
+sys     0m0.989s
+slekta_fra_brandal/image0000057A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 23 diacritics
+
+real    0m26.337s
+user    0m46.973s
+sys     0m1.003s
+slekta_fra_brandal/image0000057B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 86 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.339s
+user    0m39.309s
+sys     0m0.960s
+slekta_fra_brandal/image0000058A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 23 diacritics
+
+real    0m24.500s
+user    0m41.489s
+sys     0m0.858s
+slekta_fra_brandal/image0000058B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.068s
+user    0m43.342s
+sys     0m0.902s
+slekta_fra_brandal/image0000059A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.072s
+user    0m38.974s
+sys     0m0.823s
+slekta_fra_brandal/image0000059B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.474s
+user    0m42.329s
+sys     0m0.904s
+slekta_fra_brandal/image0000060A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.972s
+user    0m40.767s
+sys     0m0.964s
+slekta_fra_brandal/image0000060B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.600s
+user    0m42.698s
+sys     0m0.989s
+slekta_fra_brandal/image0000061A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 21 diacritics
+
+real    0m27.042s
+user    0m48.163s
+sys     0m0.999s
+slekta_fra_brandal/image0000061B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.737s
+user    0m39.611s
+sys     0m0.970s
+slekta_fra_brandal/image0000062A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.017s
+user    0m46.438s
+sys     0m1.008s
+slekta_fra_brandal/image0000062B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.565s
+user    0m45.203s
+sys     0m0.983s
+slekta_fra_brandal/image0000063A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 40 diacritics
+
+real    0m24.641s
+user    0m42.746s
+sys     0m1.018s
+slekta_fra_brandal/image0000063B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.966s
+user    0m39.443s
+sys     0m0.975s
+slekta_fra_brandal/image0000064A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m34.023s
+user    1m2.614s
+sys     0m1.033s
+slekta_fra_brandal/image0000064B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m35.590s
+user    1m6.201s
+sys     0m1.087s
+slekta_fra_brandal/image0000065A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m22.088s
+user    0m33.181s
+sys     0m0.808s
+slekta_fra_brandal/image0000065B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.727s
+user    0m37.188s
+sys     0m0.864s
+slekta_fra_brandal/image0000066A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 20 diacritics
+
+real    0m29.198s
+user    0m49.711s
+sys     0m0.952s
+slekta_fra_brandal/image0000066B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m21.256s
+user    0m34.260s
+sys     0m0.830s
+slekta_fra_brandal/image0000067A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.306s
+user    0m46.075s
+sys     0m0.832s
+slekta_fra_brandal/image0000067B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m29.024s
+user    0m51.397s
+sys     0m0.957s
+slekta_fra_brandal/image0000068A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m28.746s
+user    0m49.150s
+sys     0m0.953s
+slekta_fra_brandal/image0000068B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.222s
+user    0m53.577s
+sys     0m0.960s
+slekta_fra_brandal/image0000069A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m37.815s
+user    1m13.083s
+sys     0m1.083s
+slekta_fra_brandal/image0000069B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m32.916s
+user    0m57.214s
+sys     0m0.904s
+slekta_fra_brandal/image0000070A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m27.639s
+user    0m46.576s
+sys     0m0.907s
+slekta_fra_brandal/image0000070B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.717s
+user    0m48.946s
+sys     0m0.912s
+slekta_fra_brandal/image0000071A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m28.463s
+user    0m52.062s
+sys     0m0.937s
+slekta_fra_brandal/image0000071B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m31.827s
+user    0m58.088s
+sys     0m1.063s
+slekta_fra_brandal/image0000072A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.647s
+user    0m50.108s
+sys     0m1.030s
+slekta_fra_brandal/image0000072B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 46 diacritics
+
+real    0m27.184s
+user    0m47.672s
+sys     0m0.958s
+slekta_fra_brandal/image0000073A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 90 diacritics
+
+real    0m34.938s
+user    1m1.324s
+sys     0m1.042s
+slekta_fra_brandal/image0000073B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 67 diacritics
+
+real    0m36.149s
+user    1m5.654s
+sys     0m1.029s
+slekta_fra_brandal/image0000074A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m33.435s
+user    0m59.679s
+sys     0m1.099s
+slekta_fra_brandal/image0000074B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m35.869s
+user    1m6.227s
+sys     0m1.063s
+slekta_fra_brandal/image0000075A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m37.292s
+user    1m8.815s
+sys     0m0.993s
+slekta_fra_brandal/image0000075B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 14 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.199s
+user    0m42.872s
+sys     0m1.011s
+slekta_fra_brandal/image0000076A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.705s
+user    0m47.861s
+sys     0m1.148s
+slekta_fra_brandal/image0000076B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m27.541s
+user    0m50.095s
+sys     0m0.978s
+slekta_fra_brandal/image0000077A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.326s
+user    0m46.387s
+sys     0m0.983s
+slekta_fra_brandal/image0000077B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.814s
+user    0m44.599s
+sys     0m0.930s
+slekta_fra_brandal/image0000078A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 32 diacritics
+
+real    0m25.990s
+user    0m43.673s
+sys     0m1.112s
+slekta_fra_brandal/image0000078B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.895s
+user    0m42.913s
+sys     0m0.898s
+slekta_fra_brandal/image0000079A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+
+real    0m24.644s
+user    0m41.862s
+sys     0m1.028s
+slekta_fra_brandal/image0000079B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 22 diacritics
+
+real    0m15.905s
+user    0m22.429s
+sys     0m0.777s
+slekta_fra_brandal/image0000080A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 18 diacritics
+
+real    0m20.006s
+user    0m30.198s
+sys     0m0.854s
+slekta_fra_brandal/image0000080B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.004s
+user    0m42.847s
+sys     0m0.980s
+slekta_fra_brandal/image0000081A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.349s
+user    0m38.008s
+sys     0m0.829s
+slekta_fra_brandal/image0000081B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.800s
+user    0m45.470s
+sys     0m0.975s
+slekta_fra_brandal/image0000082A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m17.373s
+user    0m24.489s
+sys     0m0.671s
+slekta_fra_brandal/image0000082B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.554s
+user    0m40.413s
+sys     0m0.882s
+slekta_fra_brandal/image0000083A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.225s
+user    0m41.112s
+sys     0m0.950s
+slekta_fra_brandal/image0000083B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 45 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.132s
+user    0m37.473s
+sys     0m0.804s
+slekta_fra_brandal/image0000084A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.849s
+user    0m36.730s
+sys     0m0.840s
+slekta_fra_brandal/image0000084B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m27.099s
+user    0m49.896s
+sys     0m1.009s
+slekta_fra_brandal/image0000085A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m19.485s
+user    0m30.280s
+sys     0m0.779s
+slekta_fra_brandal/image0000085B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.370s
+user    0m51.404s
+sys     0m1.069s
+slekta_fra_brandal/image0000086A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.641s
+user    0m41.428s
+sys     0m0.912s
+slekta_fra_brandal/image0000086B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.287s
+user    0m46.615s
+sys     0m0.945s
+slekta_fra_brandal/image0000087A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.452s
+user    0m38.739s
+sys     0m0.812s
+slekta_fra_brandal/image0000087B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 43 diacritics
+
+real    0m23.261s
+user    0m38.505s
+sys     0m0.863s
+slekta_fra_brandal/image0000088A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 23 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.736s
+user    0m39.816s
+sys     0m0.935s
+slekta_fra_brandal/image0000088B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 42 diacritics
+
+real    0m24.657s
+user    0m41.939s
+sys     0m0.882s
+slekta_fra_brandal/image0000089A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 19 diacritics
+
+real    0m24.568s
+user    0m42.647s
+sys     0m0.923s
+slekta_fra_brandal/image0000089B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 16 diacritics
+
+real    0m23.903s
+user    0m38.075s
+sys     0m0.931s
+slekta_fra_brandal/image0000090A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.473s
+user    0m40.662s
+sys     0m0.930s
+slekta_fra_brandal/image0000090B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+
+real    0m26.024s
+user    0m45.495s
+sys     0m0.947s
+slekta_fra_brandal/image0000091A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 40 diacritics
+
+real    0m24.085s
+user    0m39.515s
+sys     0m0.949s
+slekta_fra_brandal/image0000091B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.983s
+user    0m41.222s
+sys     0m0.911s
+slekta_fra_brandal/image0000092A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.809s
+user    0m44.192s
+sys     0m0.909s
+slekta_fra_brandal/image0000092B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.430s
+user    0m42.725s
+sys     0m0.947s
+slekta_fra_brandal/image0000093A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.345s
+user    0m42.185s
+sys     0m0.873s
+slekta_fra_brandal/image0000093B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.360s
+user    0m43.504s
+sys     0m0.952s
+slekta_fra_brandal/image0000094A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.141s
+user    0m39.535s
+sys     0m0.977s
+slekta_fra_brandal/image0000094B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.997s
+user    0m46.053s
+sys     0m0.974s
+slekta_fra_brandal/image0000095A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+
+real    0m26.520s
+user    0m45.181s
+sys     0m0.943s
+slekta_fra_brandal/image0000095B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 19 diacritics
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.782s
+user    0m39.975s
+sys     0m0.863s
+slekta_fra_brandal/image0000096A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.261s
+user    0m49.124s
+sys     0m0.960s
+slekta_fra_brandal/image0000096B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 23 diacritics
+
+real    0m27.155s
+user    0m45.289s
+sys     0m0.891s
+slekta_fra_brandal/image0000097A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m25.651s
+user    0m43.935s
+sys     0m0.955s
+slekta_fra_brandal/image0000097B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.866s
+user    0m41.595s
+sys     0m0.930s
+slekta_fra_brandal/image0000098A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.711s
+user    0m40.789s
+sys     0m0.988s
+slekta_fra_brandal/image0000098B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.248s
+user    0m39.814s
+sys     0m0.950s
+slekta_fra_brandal/image0000099A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.178s
+user    0m41.661s
+sys     0m1.020s
+slekta_fra_brandal/image0000099B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m19.995s
+user    0m30.259s
+sys     0m0.832s
+slekta_fra_brandal/image0000100A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 63 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m22.956s
+user    0m36.851s
+sys     0m0.876s
+slekta_fra_brandal/image0000100B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.132s
+user    0m45.609s
+sys     0m0.921s
+slekta_fra_brandal/image0000101A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.824s
+user    0m41.008s
+sys     0m0.995s
+slekta_fra_brandal/image0000101B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 27 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m24.327s
+user    0m41.905s
+sys     0m0.918s
+slekta_fra_brandal/image0000102A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 40 diacritics
+
+real    0m23.560s
+user    0m40.930s
+sys     0m1.037s
+slekta_fra_brandal/image0000102B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.341s
+user    0m42.154s
+sys     0m0.918s
+slekta_fra_brandal/image0000103A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 87 diacritics
+
+real    0m23.826s
+user    0m39.735s
+sys     0m0.931s
+slekta_fra_brandal/image0000103B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 48 diacritics
+
+real    0m23.757s
+user    0m40.026s
+sys     0m0.909s
+slekta_fra_brandal/image0000104A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 21 diacritics
+
+real    0m24.031s
+user    0m40.774s
+sys     0m0.922s
+slekta_fra_brandal/image0000104B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 42 diacritics
+
+real    0m23.402s
+user    0m38.735s
+sys     0m0.881s
+slekta_fra_brandal/image0000105A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.143s
+user    0m44.492s
+sys     0m0.962s
+slekta_fra_brandal/image0000105B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m15.523s
+user    0m21.066s
+sys     0m0.762s
+slekta_fra_brandal/image0000106A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 18 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m20.671s
+user    0m32.773s
+sys     0m0.840s
+slekta_fra_brandal/image0000106B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.735s
+user    0m43.643s
+sys     0m0.865s
+slekta_fra_brandal/image0000107A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m23.814s
+user    0m41.456s
+sys     0m0.911s
+slekta_fra_brandal/image0000107B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.977s
+user    0m42.998s
+sys     0m0.832s
+slekta_fra_brandal/image0000108A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m24.119s
+user    0m40.264s
+sys     0m0.969s
+slekta_fra_brandal/image0000108B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m19.046s
+user    0m28.877s
+sys     0m0.878s
+slekta_fra_brandal/image0000109A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m20.785s
+user    0m31.261s
+sys     0m0.837s
+slekta_fra_brandal/image0000109B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m23.373s
+user    0m38.248s
+sys     0m0.943s
+slekta_fra_brandal/image0000110A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 57 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m40.688s
+user    1m10.613s
+sys     0m1.062s
+slekta_fra_brandal/image0000110B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 34 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m35.830s
+user    1m2.793s
+sys     0m0.890s
+slekta_fra_brandal/image0000111A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m13.805s
+user    0m16.528s
+sys     0m0.731s
+slekta_fra_brandal/image0000111B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 36 diacritics
+
+real    0m21.687s
+user    0m34.425s
+sys     0m0.811s
+slekta_fra_brandal/image0000112A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m18.448s
+user    0m27.806s
+sys     0m0.817s
+slekta_fra_brandal/image0000112B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.716s
+user    0m46.070s
+sys     0m1.074s
+slekta_fra_brandal/image0000113A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m27.263s
+user    0m45.670s
+sys     0m1.004s
+slekta_fra_brandal/image0000113B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m26.353s
+user    0m44.504s
+sys     0m0.850s
+slekta_fra_brandal/image0000114A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.327s
+user    0m52.440s
+sys     0m1.006s
+slekta_fra_brandal/image0000114B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 26 diacritics
+Image too small to scale!! (2x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.629s
+user    0m44.467s
+sys     0m0.949s
+slekta_fra_brandal/image0000115A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m28.506s
+user    0m51.134s
+sys     0m0.934s
+slekta_fra_brandal/image0000115B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+
+real    0m25.342s
+user    0m43.444s
+sys     0m0.877s
+slekta_fra_brandal/image0000116A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 95 diacritics
+
+real    0m27.341s
+user    0m46.739s
+sys     0m0.974s
+slekta_fra_brandal/image0000116B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m20.324s
+user    0m32.602s
+sys     0m0.838s
+slekta_fra_brandal/image0000117A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m25.742s
+user    0m41.385s
+sys     0m0.889s
+slekta_fra_brandal/image0000117B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m12.361s
+user    0m13.616s
+sys     0m0.658s
+slekta_fra_brandal/image0000118A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m22.707s
+user    0m32.289s
+sys     0m0.808s
+slekta_fra_brandal/image0000118B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m26.496s
+user    0m45.770s
+sys     0m1.040s
+slekta_fra_brandal/image0000119A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m36.484s
+user    1m4.711s
+sys     0m0.916s
+slekta_fra_brandal/image0000119B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    1m4.639s
+user    2m8.353s
+sys     0m1.209s
+slekta_fra_brandal/image0000120A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+
+real    0m37.143s
+user    1m4.577s
+sys     0m0.968s
+slekta_fra_brandal/image0000120B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 30 diacritics
+
+real    0m27.116s
+user    0m46.189s
+sys     0m0.977s
+slekta_fra_brandal/image0000121A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+
+real    0m27.608s
+user    0m44.228s
+sys     0m1.017s
+slekta_fra_brandal/image0000121B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 65 diacritics
+
+real    0m40.090s
+user    1m9.151s
+sys     0m0.933s
+slekta_fra_brandal/image0000122A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 25 diacritics
+
+real    0m36.115s
+user    1m4.881s
+sys     0m1.079s
+slekta_fra_brandal/image0000122B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m19.195s
+user    0m27.479s
+sys     0m0.912s
+slekta_fra_brandal/image0000123A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 92 diacritics
+
+real    0m33.146s
+user    0m57.085s
+sys     0m0.872s
+slekta_fra_brandal/image0000123B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m33.849s
+user    0m57.710s
+sys     0m0.860s
+slekta_fra_brandal/image0000124A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 18 diacritics
+
+real    0m37.577s
+user    1m2.913s
+sys     0m1.005s
+slekta_fra_brandal/image0000124B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m30.784s
+user    0m51.896s
+sys     0m0.936s
+slekta_fra_brandal/image0000125A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m35.310s
+user    0m58.829s
+sys     0m1.126s
+slekta_fra_brandal/image0000125B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m30.529s
+user    0m49.825s
+sys     0m0.942s
+slekta_fra_brandal/image0000126A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 44 diacritics
+
+real    0m39.830s
+user    1m5.447s
+sys     0m1.066s
+slekta_fra_brandal/image0000126B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 118 diacritics
+
+real    0m33.490s
+user    0m54.590s
+sys     0m0.977s
+slekta_fra_brandal/image0000127A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 24 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m27.981s
+user    0m41.397s
+sys     0m0.880s
+slekta_fra_brandal/image0000127B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m33.604s
+user    0m54.514s
+sys     0m0.928s
+slekta_fra_brandal/image0000128A.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+Detected 50 diacritics
+Image too small to scale!! (3x48 vs min width of 3)
+Line cannot be recognized!!
+
+real    0m29.502s
+user    0m45.342s
+sys     0m0.931s
+slekta_fra_brandal/image0000128B.tif
+Tesseract Open Source OCR Engine v4.0.0 with Leptonica
+Page 1
+
+real    0m13.200s
+user    0m15.274s
+sys     0m0.689s
+
