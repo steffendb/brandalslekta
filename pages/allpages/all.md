@@ -1599,7 +1599,7 @@ III. Hallvard Jørgen Gjørtz, f. 27. juli 1928 i Ålesund, g. 12. juli 1951 med
 
 4. Kirsten Hansteen Jørgensen, f. 10. desember 1900. — I yngre år gjekk ho middelskole og har seinare vore mykje heime for å vere si gamle mor til hjelp. Dei siste 15 åra har ho vore kontordame ved Svaneapoteket, Ålesund. — Ugift.
 
-5. Ragnvald Hansteen Jørgensen, f. 19. juli 1902, g. 14. september 1941 med Nansy Ringdal frå Ålesund, f. 5. oktober 1906. Nansy har middel- og husmorskole og ho var nokre år i USA. Ragnvald gjekk handelsgymnaset. Han reiste som ung til Latin-Amerika, der han vart verande i 745 år. Han var for det meste i Buenos Aires, men var også bolkevis i andre statar. I 1939 kom han heimatt til Ålesund og vart tilsett som bokhaldar — seinare hovudbokhaldar ved Tafjord Kraftselskaps hovudkontor i Ålesund. Han har såleis hatt å gjere med det vanlege driftsrekneskap, og i tillegg hertil rekneskapa for dei mange anlegga med nye utbyggingar fram gjennom tidene.
+5. Ragnvald Hansteen Jørgensen, f. 19. juli 1902, g. 14. september 1941 med Nansy Ringdal frå Ålesund, f. 5. oktober 1906. Nansy har middel- og husmorskole og ho var nokre år i USA. Ragnvald gjekk handelsgymnaset. Han reiste som ung til Latin-Amerika, der han vart verande i 7 1/2 år. Han var for det meste i Buenos Aires, men var også bolkevis i andre statar. I 1939 kom han heimatt til Ålesund og vart tilsett som bokhaldar — seinare hovudbokhaldar ved Tafjord Kraftselskaps hovudkontor i Ålesund. Han har såleis hatt å gjere med det vanlege driftsrekneskap, og i tillegg hertil rekneskapa for dei mange anlegga med nye utbyggingar fram gjennom tidene.
 
 Hobby: Dei har ei lita motorsnekke, og når veret er bra driv dei sportsfiske inne i den lune fjorden, og dei held seg såleis med fersk fisk til huslyden det meste av året. — Dei har ikkje barn.
 
@@ -1957,7 +1957,7 @@ Vidare er i skiftet nemnde systrene til Lisbet som er:
 
 Me kjem så til Rasmus Olson Sætre, f. 1737 og g. 2 gonger, 1. gong med Brita Jakobsdtr. Sætre, f. 1733. Dei vart buande i Pers-garden på Sætre, derav etternamnet Sætre. Men i 1771 døydde Brita Jakobsdtr. og vart jordfest palmesundag det året. Ho vart berre 38 år gammal, men hadde då fått 8 born. Den eldste var Ole, f. 1759 og døypt 3. s. e. Kr. Openbering.
 
-Rasmus Olson Sætre vart g. 2. gongen med Marta Pedersdtr. Løndal, f. 1753. Ho døydde 60 år gammal (1813?), og Rasmus døydde 1822, 8215 år gammal. Han må ha vore ein særleg sprek kar for han skulle vera far til 22 born i sine 2 ekteskap, men av dei skulle berre 6 vere i live då han døydde i 1822, opplyser Alv Brandal. Han fortel også at Rasmus Olson Sætre hadde 4 rette sysken. Av dei skulle ein bror vera gift på Steinsvik i Dalsfjord og ei syster på Feden (no Lauvstad) i Dalsfjord.
+Rasmus Olson Sætre vart g. 2. gongen med Marta Pedersdtr. Løndal, f. 1753. Ho døydde 60 år gammal (1813?), og Rasmus døydde 1822, 82 1/5 år gammal. Han må ha vore ein særleg sprek kar for han skulle vera far til 22 born i sine 2 ekteskap, men av dei skulle berre 6 vere i live då han døydde i 1822, opplyser Alv Brandal. Han fortel også at Rasmus Olson Sætre hadde 4 rette sysken. Av dei skulle ein bror vera gift på Steinsvik i Dalsfjord og ei syster på Feden (no Lauvstad) i Dalsfjord.
 
 Ole Rasmusson Sætre (Thorseth) var f. i Volda 1759 og døypt der 3. s. e. Kr. Openbering. I 1793, 5. s. e. påske vart han g. med Marta (Marita) Styrkarsdtr. Bjerkvik, f. 1757 og døypt. i Rovde 14. august det året, konfirmert 1774. Ho var dotter til Styrkar Ivarson Bjerkvik og kona Ingeborg Olsdtr. f. Håvoll. Foreldra til Styrkar var Ivar Johannesson Bjerkvik og kone Brit Styrkarsdtr. Ættegranskaren Per Årviknes seier at truleg fører denne ætta attende til Suderheimsætta gjennom Knut Bårdson Lid.
 
@@ -1973,7 +1973,7 @@ Etter ovanståande var Pauline Ingebriktsdtr. og Anne Oline Ingebriktsdtr. Indre
 
 Så langt etter prost Thorseths bok: «Til minne om Ole Andreas Rasmusson Thorseth og kona Anne Andersdtr.»
 
-Så tilbake til Rasmus Olsson Thorseth. Han gifte seg altså i 1814, 1145 år etter at faren døydde, og han tok då truleg feste på garden.
+Så tilbake til Rasmus Olsson Thorseth. Han gifte seg altså i 1814, 1 1/5 år etter at faren døydde, og han tok då truleg feste på garden.
 
 Mor mi, Anna Brandal, f. Thorseth, har fortalt at Rasmus Olsson skulle vere ein godlynt og triveleg kar. Han hadde e1 svært god sangrøyst, og han tralla og song mest alltid til arbeidet. Slik var det også ein kveld i februar 1830. Han hadde vore ved kverna i Brandal, og på heimvegen om kvelden, var det klårt måneskin og pent ver. Det kunne høyrast frå land på Skredestranda at han song med klår røyst. Men det vart også det siste dei høyrde frå han. Om morgonen, dagen etter, vart han funnen i fjøra — død, berre 36 år gammal. Ingen veit korleis dette hadde bore til, og ingenting vart gjort for å røkja nærare etter denne hendinga. Eldste sonen, Martin, var då 9 1/5 år gammal, og den yngste, Ole, var knapt 4 år.
 
@@ -2415,7 +2415,7 @@ Asbjørn Hansson Tødenes, f. 20. januar 1933, g. 25. januar 1964, med Berit Mad
 
 6. Jenny Petersdtr. Tødenes, f. 23. juli 1902, g. 8. juni 1930, med Rasmus Bernsson Torset, f. 25. mai 1897.
 
-Rasmus gjekk Søndmøre Amtsskole 1912—13. Fram til 1930 var han kalkverksarbeidar, men om vinteren var han med på torske- og sildefiske, var så i kalkverket fram til 1936. I 1937 vart Rasmus tilsett som forretningsførar for Vestre Sunnmøre Branntrygdelag med kontor på heimegarden, Årvik. Han kom etter kvart mykje med i det offentlege styre og stell. Medlem av Rovde heradstyre frå 1929, unnateke i valbolk og 3 år under krigen. Han var varaordførar 1937—45. Ordførar 1946—0559. Formann i Møre og Romsdal fylkesting 1956—59. Valbolken 1959—62 var han 1. varamann for Venstre til Stortinget og møtte der fleire gonger. Han var lagrettesmann, doms- ogskjønnsmann og formann i Rovde forliksråd m. m. Rasmus Bernsson døydde av hjerneslag 9. desember 1965. — 5 barn, I—V:
+Rasmus gjekk Søndmøre Amtsskole 1912—13. Fram til 1930 var han kalkverksarbeidar, men om vinteren var han med på torske- og sildefiske, var så i kalkverket fram til 1936. I 1937 vart Rasmus tilsett som forretningsførar for Vestre Sunnmøre Branntrygdelag med kontor på heimegarden, Årvik. Han kom etter kvart mykje med i det offentlege styre og stell. Medlem av Rovde heradstyre frå 1929, unnateke i valbolk og 3 år under krigen. Han var varaordførar 1937—45. Ordførar 1946—59. Formann i Møre og Romsdal fylkesting 1956—59. Valbolken 1959—62 var han 1. varamann for Venstre til Stortinget og møtte der fleire gonger. Han var lagrettesmann, doms- ogskjønnsmann og formann i Rovde forliksråd m. m. Rasmus Bernsson døydde av hjerneslag 9. desember 1965. — 5 barn, I—V:
 
 I. Bern Rasmusson Torset, f. 16. juli 1931. Han har eksamen artium og er cand. jur. og var 1960—61 domarfullmektig i Nordre Sunnmøre sorenskriveri. Likningssjef og kommunekassarar i Rovde frå 1962. Då faren døydde, vart Bern i januar 1966 tilsett som forretningsførar for Vestre Sunnmøre branntrygdelag med kontor på Larsnes. Bustad: Farstunet på «Lidarende», Årvik.
 
