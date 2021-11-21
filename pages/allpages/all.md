@@ -60,7 +60,7 @@ c. Rasmus Nilsson Kvammen; f. 21. juni 1796, g. 1825 med enkja etter farbroren: 
 
 1. Karen Gjertine Rasmusdtr. Dimnastøl, f. 1826, g. med Erløv Nilsson Røyren, f. 1819, av foreldre: Nils Olson Røyren i Ulstein og kone Styrkine Jonsdtr. Erløv Nilsson var gardbrukar i Røyra, Ulstein, og han døydde 30. september 1592. Karen Rasmusdtr. døydde 24. april 1869.
 
-2. Johannes Rasmusson Dimnastøl, f. 1831, g. 1. gong 2. juli 1854 med Oline Ivarsdtr. Alme frå Hareid, f. 1829, av foreldre: Ivar Arneson Alme og kone Berte Olsdtr., f. Hjøringdal i Hareid. Oline Ivarsdtr. døydde om lag 1860—61 ? og Johannes vart gift 2. gong 22. juni 1862 med Olava Olsdtr. Krumsvik frå Volda, f. 18. mai 1822. — Hennar far var Ole Krumsvik.
+2. Johannes Rasmusson Dimnastøl, f. 1831, g. 1. gong 2. juli 1854 med Oline Ivarsdtr. Alme frå Hareid, f. 1829, av foreldre: Ivar Arneson Alme og kone Berte Olsdtr., f. Hjøringdal i Hareid. Oline Ivarsdtr. døydde om lag 1860—61? og Johannes vart gift 2. gong 22. juni 1862 med Olava Olsdtr. Krumsvik frå Volda, f. 18. mai 1822. — Hennar far var Ole Krumsvik.
 
 Johannes Rasmusson Dimmestøl vart konst. lærar i 1850 i indre lut av Ulstein sokn med ei løn av 8 spd. Den 27. oktober 1856 søkte han avskjed frå skoleombodet, og då var løna 10 spd. for året. Han var omgangsskolelærar om lag 5 1/2 år. I 1859 flytte han til Bentholen i Herøy (Kvitøy), og der budde han til sin død i 1910. — 2 barn i 1. ekteskap, I—II.
 
@@ -209,7 +209,7 @@ I. Arild Sidney Ottarson Breivik, f. 30. mai 1931. Framhaldsskole og yrkesskolen
 1. Audny Arildsdtr. Breivik, f. 28. jan. 1958.
 2. Bjørge Arildson Breivik, f. 22. febr. 1960.
 
-II. Gunnar Eilert Ottarson Breivik, f. 26. febr. 1933, g. 1959 med Alfhild Pettersen frå Kolvereid i Namdal, f. 7. juni 1937. Gunnar dreiv kvalfangst frå han var 16 år til han gifte seg. Han arbeider no på ein papirfabr1kk l Oslo men dei bur i Lier — 2 barn, 1—2:
+II. Gunnar Eilert Ottarson Breivik, f. 26. febr. 1933, g. 1959 med Alfhild Pettersen frå Kolvereid i Namdal, f. 7. juni 1937. Gunnar dreiv kvalfangst frå han var 16 år til han gifte seg. Han arbeider no på ein papirfabrikk l Oslo men dei bur i Lier — 2 barn, 1—2:
 
 1. Anita Gunnarsdtr. Breivik, f. 4 juli 1959
 2. Edel Gunnarsdtr. Breivik, f. 17. febr. 1961.
@@ -437,7 +437,7 @@ frå br.nr. 6, og Andreas har stova etter faren. Skøyte frå faren for kr. 1200
 
 3. Olav Johannesson Torvik, f. 10. juni 1876, g. 1906 med Elisa Martinusdtr. Leine, f. 14. juli 1881.
 
-Olav fekk skøyte på garden av sin far i 1907 for kr. 2800 + kår. Kåret var m. a.: «270 kg havre, 360 kg poteter, rett til at bryte op 45 mål til aaker. 1/3 af den melk som gaardens storfebesetning daglig afgiver ligesaa et lige stort kvotedel af ungkalvene, videre forsvarlig vinterforing og sommerhavning til 3 øresauer. Kreaturene pleies og passes isammens med kaaryderens egne kreaturer. Melken melkes af kaaryderen og leveres i fersk tilstand i vaar bolig umiddelbart efter melkingen.» (H. b.).
+Olav fekk skøyte på garden av sin far i 1907 for kr. 2800 + kår. Kåret var m. a.: «270 kg havre, 360 kg poteter, rett til at bryte op 1/2 mål til aaker. 1/3 af den melk som gaardens storfebesetning daglig afgiver ligesaa et lige stort kvotedel af ungkalvene, videre forsvarlig vinterforing og sommerhavning til 3 øresauer. Kreaturene pleies og passes isammens med kaaryderens egne kreaturer. Melken melkes af kaaryderen og leveres i fersk tilstand i vaar bolig umiddelbart efter melkingen.» (H. b.).
 
 Olav var gardbrukar og fiskar. Han hadde også interesse i gardsstell og nydyrking og tok her arven etter faren. Då han døydde, var så å seie heile gardsbruket oppdyrka. Han var også hendig med alt slags støypingsarbeid og var mykje nytta i grannelaget til slikt arbeid, — særleg mange skorsteinar har han mura opp.
 
@@ -696,7 +696,7 @@ II. Fred Espenak jr., f. 19. januar 1952.
 
 4. Sylvia Norma Knutsdtr. Espenak, f. 29. juli 1924, g. 30. juni 1951 med Richard D. Walsh, f. 18. oktober 1926 av foreldre: Hr. og fru James Walsh frå Staten Island, N. Y. Richard er: Internal auditor, Humble oil & refining Co., Elizabeth, New Jersey. Dei bur i nærleiken av Espenak-heimen. — 2 barn, I—II.
 
-I. Jefrey R. Walsh, f. 23. mars 1955. |
+I. Jefrey R. Walsh, f. 23. mars 1955.
 
 II. Debra L. Walsh, f. 18. mai 1958.
 
@@ -1236,7 +1236,7 @@ V. Bjørn Ottar Bjarnesson Brende, f. 30. desember 1945, g. 11. juli 1969 med So
 
 7. Judith Johansdtr. Pilskog, f. 9. februar 1917. Ho har husmorskole og sykurs. Gift 1940 med Lars Olsson Ringdal frå Hellesylt. Han har eksamen artium og er direktør for Bakelitt-fabrikken i Oslo og Fotorotasjons-fabrikken i Spjelkavik, Alesund. — 3 barn, 1—3:
 
-1. Anne-Lise Larsdtr. Ringdal, f. 1942. Ho har eksamen artium og har studert filologi ved Oslo Universitet. Gift 1965 med Claude Morelle frå Frankrike, f. 22. september 1936. — Morelle er landbruksingeniør og har arbe1d i Oslo. — 2 barn, I—II:
+1. Anne-Lise Larsdtr. Ringdal, f. 1942. Ho har eksamen artium og har studert filologi ved Oslo Universitet. Gift 1965 med Claude Morelle frå Frankrike, f. 22. september 1936. — Morelle er landbruksingeniør og har arbeid i Oslo. — 2 barn, I—II:
 
 I. Karine Marie Morelle, f. 28. mai 1966.
 
@@ -1358,7 +1358,7 @@ a. Rasmus Knutsson Hareide, f. 3. juli 1856, g. 1885 med Mina Johannesdtr. Brand
 
 Då Rasmus Knutsson døydde skreiv ein granne denne nekrologen om ham:
 
-«Rasmus K. Hareide er død 91 1/5 år gammal Far hans var Knut Gulliksson Hareide — Skule Knut — som var skolehaldar, gardbrukar og ordførar og vide kjend på Sunnmøre i si tid. Rasmus tok tidleg til på sjøen, og han var også på fyrarbeid i sin ungdom. Seinare overtok han den garden som far hans hadde brukt. Sonen J. R. Hareide driv no garden. Rasmus har drive fiske på otring, på seglskøyte, på motorbåt og litt på stimbåt og. I mange år var han kyrkjetenar i Hareid, og han var med i kyrkjetilsynet. I heradstyre, fattigstyre og andre kommunale styre var han og med. Han var gåverik, las og fylgde med i alt som ovra seg i tida. Alt frå vetostridens dagar var han aktivt med i det politiske liv og var ein medviten venstremann. Rasmus »Var alltid i godt lune og slo gjerne av ein prat med dei han møtte. Han var ein gild granne og ei stor barneven. Særleg var han ein meister å fortejla frå gamle dagar. Han lika godt å fortelja frå den politiske kampen i 80-åra. Likeeins fortalde han om dei som livde i bygda i hans barndom og ungdom, og det gjorde han så godt at vi, som aldri hadde sett dei, kunne lage oss eit tydeleg bilæte av kvar einskild av dei. Den tid Rasmus var i si velmakt, var det reint ein hugnad å høyra han fortelja. Men bak alt låg eit kristent alvor, og han hadde også eit maningsord til oss, når vi sat og høyrde han fortelja. Kona hans, Mina, fødd Brandal, har stade trufast ved sida hans gjenom 62 år snart, og ho lever enno. Dei har 10 born og 9 av dei lever. Dei siste åra var han skral, og heldt senga, og no slokna han roleg og sæl. Vi lyser fred og signing over minne hans.» (ngh)
+«Rasmus K. Hareide er død 91 1/5 år gammal Far hans var Knut Gulliksson Hareide — Skule Knut — som var skolehaldar, gardbrukar og ordførar og vide kjend på Sunnmøre i si tid. Rasmus tok tidleg til på sjøen, og han var også på fyrarbeid i sin ungdom. Seinare overtok han den garden som far hans hadde brukt. Sonen J. R. Hareide driv no garden. Rasmus har drive fiske på otring, på seglskøyte, på motorbåt og litt på stimbåt og. I mange år var han kyrkjetenar i Hareid, og han var med i kyrkjetilsynet. I heradstyre, fattigstyre og andre kommunale styre var han og med. Han var gåverik, las og fylgde med i alt som ovra seg i tida. Alt frå vetostridens dagar var han aktivt med i det politiske liv og var ein medviten venstremann. Rasmus var alltid i godt lune og slo gjerne av ein prat med dei han møtte. Han var ein gild granne og ei stor barneven. Særleg var han ein meister å fortejla frå gamle dagar. Han lika godt å fortelja frå den politiske kampen i 80-åra. Likeeins fortalde han om dei som livde i bygda i hans barndom og ungdom, og det gjorde han så godt at vi, som aldri hadde sett dei, kunne lage oss eit tydeleg bilæte av kvar einskild av dei. Den tid Rasmus var i si velmakt, var det reint ein hugnad å høyra han fortelja. Men bak alt låg eit kristent alvor, og han hadde også eit maningsord til oss, når vi sat og høyrde han fortelja. Kona hans, Mina, fødd Brandal, har stade trufast ved sida hans gjenom 62 år snart, og ho lever enno. Dei har 10 born og 9 av dei lever. Dei siste åra var han skral, og heldt senga, og no slokna han roleg og sæl. Vi lyser fred og signing over minne hans.» (ngh)
 
 Rasmus Knutsson Hareide døydde 1947. Mina Johannesdtr. døydde 1949 — 88 år gammal. — 10 barn, 1—10.
 
@@ -1478,7 +1478,7 @@ I. Marit Johannesdtr. Hareide, f. 28. september 1926. Real- og sjukepleieskole. 
 
 3. Kari Olavsdtr. Standal, f. 1965.
 
-II. Roar Johannesson Hareide, f« 23. september 1927. Styrmannsskolen. Han var skipper på den gamle «Tampen», og han hadde tilsynet med ombygginga av den nye «Tampen». Roar er no kontorassistent i rederiet J. R. Hareide.
+II. Roar Johannesson Hareide, f. 23. september 1927. Styrmannsskolen. Han var skipper på den gamle «Tampen», og han hadde tilsynet med ombygginga av den nye «Tampen». Roar er no kontorassistent i rederiet J. R. Hareide.
 
 III. Bodil Johannesdtr. Hareide, f. 28. juli 1929. Ho døydde 16. desember 1937.
 
@@ -1762,7 +1762,7 @@ V. Oddvar Karsten Antonsson Flåen, f. 16. mars 1925, g. 24. april 1948 med Dagm
 
 4. Iris Wenche Oddvarsdtr. Flåen, f. 13. november 1954.
 
-5. Hermod Oddvarsson Flåen, f. 8. april 1957. |
+5. Hermod Oddvarsson Flåen, f. 8. april 1957.
 
 VI. Hermod Antonsson Flåen, f. 6. september 1930. — Han døydde 18. mai 1956.
 
@@ -1975,7 +1975,7 @@ Så langt etter prost Thorseths bok: «Til minne om Ole Andreas Rasmusson Thorse
 
 Så tilbake til Rasmus Olsson Thorseth. Han gifte seg altså i 1814, 1 1/5 år etter at faren døydde, og han tok då truleg feste på garden.
 
-Mor mi, Anna Brandal, f. Thorseth, har fortalt at Rasmus Olsson skulle vere ein godlynt og triveleg kar. Han hadde e1 svært god sangrøyst, og han tralla og song mest alltid til arbeidet. Slik var det også ein kveld i februar 1830. Han hadde vore ved kverna i Brandal, og på heimvegen om kvelden, var det klårt måneskin og pent ver. Det kunne høyrast frå land på Skredestranda at han song med klår røyst. Men det vart også det siste dei høyrde frå han. Om morgonen, dagen etter, vart han funnen i fjøra — død, berre 36 år gammal. Ingen veit korleis dette hadde bore til, og ingenting vart gjort for å røkja nærare etter denne hendinga. Eldste sonen, Martin, var då 9 1/5 år gammal, og den yngste, Ole, var knapt 4 år.
+Mor mi, Anna Brandal, f. Thorseth, har fortalt at Rasmus Olsson skulle vere ein godlynt og triveleg kar. Han hadde ei svært god sangrøyst, og han tralla og song mest alltid til arbeidet. Slik var det også ein kveld i februar 1830. Han hadde vore ved kverna i Brandal, og på heimvegen om kvelden, var det klårt måneskin og pent ver. Det kunne høyrast frå land på Skredestranda at han song med klår røyst. Men det vart også det siste dei høyrde frå han. Om morgonen, dagen etter, vart han funnen i fjøra — død, berre 36 år gammal. Ingen veit korleis dette hadde bore til, og ingenting vart gjort for å røkja nærare etter denne hendinga. Eldste sonen, Martin, var då 9 1/5 år gammal, og den yngste, Ole, var knapt 4 år.
 
 Anne Oline Ingebriktsdtr. døydde som kårenkje, 15. april 1859, 54 år gammal. — 5 barn, A—E:
 
@@ -2363,7 +2363,7 @@ III. Peter Andreasson Tødenes, f. 24. juni 1938, g. 9. september 1960 med Unni 
 
 3. Frode Petersson Tødenes, f. 26. februar 1963.
 
-4. Helga Kirsti Petersdtr. Tøndenes, f« 29. desember 1965.
+4. Helga Kirsti Petersdtr. Tøndenes, f. 29. desember 1965.
 
 IV. Øystein Andreasson Tødenes, f. 24. november 1941. Han har eksamen artium og har studert realfag. Han har i 1968 teke matematisk naturvitenskapleg embetseksamen ved universitetet i Bergen, hovudfag: matematikk, med hovudkararakter: Laudanbilis. Han er tilsett som vitskapleg assistent ved universitetet i Bergen.
 
@@ -2494,7 +2494,7 @@ Kirkesande skal vera eit gammalt hovdingsæte, og utanfor Lambeneset kan ein enn
 
 c. Oluffa Martinsdtr. Thorseth, f. 11. juli 1853, g. 16. juni 1874 med Jakob Olsson Kirkesande, f. 16. juni 1849. Jakob reiste først til Vanylven, og fekk for billeg pris skøyte på garden til den barnlause farbroren sin, Rasmus Jakobsson Ekrem. Han likte seg ikkje der, og selde difor garden — med god forteneste — og kjøpte så halve bruket til Knut Flydal på Kirkesande av kjøpmann Hoel, 8. juli 1876. Til no hadde gardane lege i teigebyte, men i Jakob si brukstid vart innmarka utskift, og han bygde nye hus ovanfor kyrkja. Jakob var også med på torskefiske om vinteren, og han heldt ute storbåt — (møring). Han var i lang tid medlem av kommunestyret i Sande. Oluffa døydde 24. april 1915. Jakob døydde 16. mai 1928. — 8 barn, I—VIII:
 
-I. Olaf Jakobsson Sande, f. 3. november 1874, g. 31. desember 1903 med Hanna Karlsdtr. Skare frå Sandsøy, f. 27. jun1 1880. Olaf gjekk styrmannsskolen, og han reiste utanriks som styrmann på seglskute. Ein fin sommardag i 1904 vart skuta liggande heilt still i Østersjøen — ikkje ein vindpust var å sjå nokon stad. Olaf kom på at han ville taka seg eit bad, og då han var ferdig med det og sumde mot leideren, gjekk kapteinen vekk frå skipssida. Litt seinare høyrde han eit plask i sjøen. Han skunda seg til skipssida, men då var Olaf ikkje å sjå nokon stad. Han fanst ikkje igjen — hadde truleg fått krampe. Dette hende 3. august 1904.
+I. Olaf Jakobsson Sande, f. 3. november 1874, g. 31. desember 1903 med Hanna Karlsdtr. Skare frå Sandsøy, f. 27. juni 1880. Olaf gjekk styrmannsskolen, og han reiste utanriks som styrmann på seglskute. Ein fin sommardag i 1904 vart skuta liggande heilt still i Østersjøen — ikkje ein vindpust var å sjå nokon stad. Olaf kom på at han ville taka seg eit bad, og då han var ferdig med det og sumde mot leideren, gjekk kapteinen vekk frå skipssida. Litt seinare høyrde han eit plask i sjøen. Han skunda seg til skipssida, men då var Olaf ikkje å sjå nokon stad. Han fanst ikkje igjen — hadde truleg fått krampe. Dette hende 3. august 1904.
 
 Enkja, Hanna Sande, vart så verande heime hos foreldra i 2 år, men i 1907 og 1908 var ho i Bergen saman med svigerinna si, Ragna Sande, der dei hadde systove. Hanna Sande døydde 12. mai 1910 av tuberkulose. Dei hadde eitt barn, Olga Olafsdtr. Sande, f. 23. desember 1904.
 
@@ -3080,7 +3080,7 @@ IV. Arvid Juliusson Thorseth, f. 17. desember 1922. Han fekk skøyte av far sin 
 
 3. Asgeir Arvidsson Thorseth, f. 26. februar 1960.
 
-V. Kåre Juliusson Thorseth, f. 14. oktober 1926, g. 1959 med Randi Kvingedal frå Kvingo i Hordaland, f. 8. februar 1922. Dei har bygt bustadhus i Sør-Kvingo, og dei bur der. Kåre Thorseth har styrmanns- og skipperskole, og reiser no (1965) som overstyrmann i utanriksfart. — 2 barn, 1—2:
+V. Kåre Juliusson Thorseth, f. 14. oktober 1926, g. 1959 med Randi Kvingedal frå Kvingo i Hordaland, f. 8. februar 1922. Dei har bygt bustadhus i Sør-Kvingo, og dei bur der. Kåre Thorseth har styrmanns- og skipperskole, og reiser no (1968) som overstyrmann i utanriksfart. — 2 barn, 1—2:
 
 1. Kjell Ove Kåresson Thorseth, f. 13. desember 1959.
 
@@ -3144,7 +3144,7 @@ Anders reiste mykje på fraktfart for ymse handelsmenn her ikring, som Rønneber
 
 Så langt Ole J. Bigset.
 
-I R. J. Vasbotns «Tidsregister» på side 55 og s1de 76 står det slik:
+I R. J. Vasbotns «Tidsregister» på side 55 og side 76 står det slik:
 
 > «I 1771 kom en forordning angående fiskeriet i Island, at hver den som vilde fare did å lære Islænderne til at fiske på sådan måde som i Norge, da skulde han for et Fjøringfar han bygde få 20 rd. og for en otring 30 rd. og for hvert torskegarn de forferdige skulde de få 8 mark, og så skulde de få fri transport fra og til, og når de havde været der i 3 år skulde de få lov at reise tilbage igjen og dermed være fri Kongens tjeneste. Det var nogle som tog sig samme reise på, nemlig en af Søvde hed Peder Haukeland, en af Røvde sogn: Anders Leikongbakke, 2de af Borgund sogn af hvilke en var brodersøn til Alexander Ole og nogle fra Romsdalen, samt fra Nordland. De var der til 1774, da nogle af dem kom igjen, men med deres fiskeri var bleven lidet bevendt. I 1774 kom de igjen fra Island som did bleve transporterede 1771 til at lære Islænderne at fiske, skjønt deres foretagende vilde ikke lykkes til nogen stor fordel.»
 
@@ -3531,7 +3531,7 @@ Sverre Thorseth fekk i 1959 skøyte av far sin på byggetomta «Haugetun», bnr.
 
 II. Per Hansson Thorseth, f. 29. november 1930. Han er sjømann og reiser i utanriksfart — ugift (1969). Han bygde bustadhus på farsbruket i 1969.
 
-III. Dagrunn Jørgine Hansdtr. Thorseth, f. 8. januar 1933, g. 25. januar 1953 med John Einarsson Storøy frå Tjørvåg, f. 12. august 1927. |
+III. Dagrunn Jørgine Hansdtr. Thorseth, f. 8. januar 1933, g. 25. januar 1953 med John Einarsson Storøy frå Tjørvåg, f. 12. august 1927.
 
 John Storøy er maskinsjef i utanriksfart og dei bur i Ålesund. — 3 barn, 1—3:
 
@@ -4562,7 +4562,7 @@ Atle Djupvik er utdanna ingeniør, og han er tilsett ved Vestlandske Kraftsamban
 
 10. Lars Rasofielsson Ringstad, f. 8. juli 1910, g. 1938 med Edith Oddlaug Isaksdtr. Myrvåg, f. 2. juli 1913.
 
-Lars Ringstad fekk ein parsell av farsbruket, og han bygde nytt bustadhus og løe — bureisingsbruk. Lars har elles vore vegarbeidar. Dei siste åra har han vore arbe1dsformann i Statens vegstell. — 5 barn, I—V:
+Lars Ringstad fekk ein parsell av farsbruket, og han bygde nytt bustadhus og løe — bureisingsbruk. Lars har elles vore vegarbeidar. Dei siste åra har han vore arbeidsformann i Statens vegstell. — 5 barn, I—V:
 
 I. Nanny Larsdtr. Ringstad, f. 10. september 1938, g. 1963 med Sigurd Aurdal frå Sykkylven, f. 1938.
 
@@ -5124,7 +5124,7 @@ E. Elias Andersson Saunes frå Ulstein, f. 30. juni 1832, g. 7. april 1863 med R
 
 Elias Andersson flytte til Strynhaugen då han gifte seg, og i 1870 fekk han skøyte på staden av Paul Tonning for 250 spd. Han bygde stove og løe på bruket. Stova fekk tilbygt karstove i 1895 og vart seinare ombygd.
 
-Denne plassen heitte opphaveleg Arehaugen, men vart seinare kalla Strynhaugen etter Rasmus Johannesson Guddal frå Stryn i Nordfjord. Han var paktar av plassen t11 Elias Andersson kom dit.
+Denne plassen heitte opphaveleg Arehaugen, men vart seinare kalla Strynhaugen etter Rasmus Johannesson Guddal frå Stryn i Nordfjord. Han var paktar av plassen til Elias Andersson kom dit.
 
 Regine Andersdtr. døydde og Elias Andersson vart 2. gongen gift med Berte Pedersdtr. Ytrebø, f. 6. november 1840.
 
