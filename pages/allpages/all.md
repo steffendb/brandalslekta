@@ -3,8 +3,6 @@
 Samla og fortalt av Ola Andreasson Brandal
 1970
 
-<div class="page-break"></div>
-
 ## Føreord
 
 Ein skal aldri seie aldri heiter det, men om nokon hadde spurt meg, då eg var i 70-åra, om eg ville skrive ei slektsoge, så måtte svaret ha blitt nei. Eg hadde i den tida for lite interesse for slektgransking.
@@ -208,7 +206,7 @@ c. Astrid Alfredsdtr. Sandø, f. 7. novbr. 1907, g. 1930 med Ottar Breivik frå 
 
 I. Arild Sidney Ottarson Breivik, f. 30. mai 1931. Framhaldsskole og yrkesskolen på Sønsterud. Gift med Ingeborg Nedrebø frå Stavanger, f. 12. juni 1928. Ingeborg er sjukesyster. Han er no miljøarbeidar ved Ungdomspsykiatrisk klinikk, og dei bur i Oslo. — 2 barn, 1—2:
 
-1. Audny Arildsdtr. Breivik, f. 28. Jjan. 1958.
+1. Audny Arildsdtr. Breivik, f. 28. jan. 1958.
 2. Bjørge Arildson Breivik, f. 22. febr. 1960.
 
 II. Gunnar Eilert Ottarson Breivik, f. 26. febr. 1933, g. 1959 med Alfhild Pettersen frå Kolvereid i Namdal, f. 7. juni 1937. Gunnar dreiv kvalfangst frå han var 16 år til han gifte seg. Han arbeider no på ein papirfabr1kk l Oslo men dei bur i Lier — 2 barn, 1—2:
@@ -273,7 +271,7 @@ I. Adoptivbarn, Elisabeth Johanne Sandø, f. 27. mai 1929, g. med skogstyrar Kar
 4. Nils Olav Karsteinsson Solum, f. 17. juli 1962.
 5. Kari Elisabeth Karsteinsdtr. Solum, f. 7. november 1965.
 
-II Vidar Hermund Heroldssen Sandø, f. 24. mars 1935, g. 23. mars 1958 med Aud Elisabeth Angelo frå Salsbruket, f. 23. mai 1938. Vidar er yrkesskolelærar ved Namdal yrkesskole og dei bur på Salsbruket. — 5 barn, 1—5:
+II. Vidar Hermund Heroldssen Sandø, f. 24. mars 1935, g. 23. mars 1958 med Aud Elisabeth Angelo frå Salsbruket, f. 23. mai 1938. Vidar er yrkesskolelærar ved Namdal yrkesskole og dei bur på Salsbruket. — 5 barn, 1—5:
 
 1. Lasse Vidarsson Sandø, f. 3. november 1958.
 2. Heidi Vidarsdtr. Sandø, f. 21. januar 1960.
@@ -281,7 +279,7 @@ II Vidar Hermund Heroldssen Sandø, f. 24. mars 1935, g. 23. mars 1958 med Aud E
 4. Mette Vidarsdtr. Sandø, f. 9. oktober 1963.
 5. Line Vidarsdtr. Sandø, f. 26. juni 1968.
 
-III Anne-Grete Herolddtr. Sandø, f. 9. oktober 1942, g. 30. september 1961 med Otto Sverdrup frå Buøy, f. 22. september 1939. Otto er bilmekaniker og dei bur i Bærum. — 2 barn,
+III. Anne-Grete Herolddtr. Sandø, f. 9. oktober 1942, g. 30. september 1961 med Otto Sverdrup frå Buøy, f. 22. september 1939. Otto er bilmekaniker og dei bur i Bærum. — 2 barn,
 1—2:
 
 1. Geir-Otto, f. 10. mars 1962.
@@ -311,7 +309,7 @@ I. Kolbjørn Knutsson Finnanger, f. 24. november 1956, g. 10. juni 1961 med Rand
 2. Gøri Kolbjørnsdtr. Finnanger, f. 4. januar 1965.
 3. Helge Kolbjørnsson Finnanger, f. 7. oktober 1968.
 
-II Øyvind Knutsson Finnanger, f. 27. februar 1938. Namdal yrkesskole og Oslo elementær tekniske 2-årige kveldsskole. Han arbeider på Tandberg Radiofabrikk og bur i Oslo.
+II. Øyvind Knutsson Finnanger, f. 27. februar 1938. Namdal yrkesskole og Oslo elementær tekniske 2-årige kveldsskole. Han arbeider på Tandberg Radiofabrikk og bur i Oslo.
 
 III. Rolf Magne Knutsson Finnanger, f. 4. mars 1942. Inntrøndelag yrkesskole. Gift 10. august 1968 med helsesyster Asbjørg Lund, f. 26. juni 1942. Rolf er montør.
 
@@ -373,7 +371,7 @@ II. Anne Ingeborg Persdtr. Waldstrøm, f. 4. juni 1952.
 
 III. Kjerstin Erika Persdtr. Waldstrøm, f. 25. september 1955.
 
-b. Nils Kristian Arnesson Østring, f. 14. august 1923, g. 10. juli 1954 med Hjørdis Svoren frå Stryn, f. 4. april 19253. Hjørdis var sjukepleierske. Nils har økonomisk gymnas frå Trondheim og har gått postskolen. Han er postfullmektig i Gjøvik. — 3 barn, I— III:
+b. Nils Kristian Arnesson Østring, f. 14. august 1923, g. 10. juli 1954 med Hjørdis Svoren frå Stryn, f. 4. april 1923. Hjørdis var sjukepleierske. Nils har økonomisk gymnas frå Trondheim og har gått postskolen. Han er postfullmektig i Gjøvik. — 3 barn, I— III:
 
 I. Nils Kristian Nilsson Østring, f. 15. september 1956. Døydde 4. september 1960.
 II. Arne Nilsson Østring, f. 27. januar 1961.
@@ -487,8 +485,7 @@ VI. Jorid Pauline Johannesdtr. Straume, f. 22. desember 1953.
 
 d. Petra Kornelia Olavsdtr. Torvik, f. 15. november 1911. Grunna svak helse har ho for det meste vore heime. Ho var saman med si mor så lenge ho levde, og ho arbeidde noko med strikking heime.
 
-e. Magnus Paulus Olavsson Torvik, f. 26. mai 1914, g. 1952 med Berte-Kanutte Fylsvik, Volda, f. 12. november 1916. Då Magnus og broren Johannes delte farsbruket i 1937, høvde det seg slik at Magnus fekk løa. Han fekk skøyte på halve farsbruket — Torviktun, br.nr. 12, i 1955, og han bygde nytt stovehus 1952. I 1955 reiv han gamleløa og bygde nytt tid-
-høveleg uthus. Magnus har kystskipperskolen og radiokurs. Han og broren Johannes eig 2 fiskebåtar saman, og dei er begge skipperar. Magnus har vore med i den kommunale sektor. Han har vore i kommunestyret og likningsstellet. No — 1968 — er han medlem av skolestyret og trafikknemnda.
+e. Magnus Paulus Olavsson Torvik, f. 26. mai 1914, g. 1952 med Berte-Kanutte Fylsvik, Volda, f. 12. november 1916. Då Magnus og broren Johannes delte farsbruket i 1937, høvde det seg slik at Magnus fekk løa. Han fekk skøyte på halve farsbruket — Torviktun, br.nr. 12, i 1955, og han bygde nytt stovehus 1952. I 1955 reiv han gamleløa og bygde nytt tidhøveleg uthus. Magnus har kystskipperskolen og radiokurs. Han og broren Johannes eig 2 fiskebåtar saman, og dei er begge skipperar. Magnus har vore med i den kommunale sektor. Han har vore i kommunestyret og likningsstellet. No — 1968 — er han medlem av skolestyret og trafikknemnda.
 
 // Bilde
 
@@ -499,7 +496,7 @@ I 1940 var Magnus med i fridomskampen mot tyskerane, og han har deltakarmedaljen
 
 I. Olav Magnusson Torvik, f. 15. oktober 1953.
 
-I. Johanne Magnusdtr. Torvik, f. 1955. Ho døydde same året.
+II. Johanne Magnusdtr. Torvik, f. 1955. Ho døydde same året.
 
 III. Steinar Magnusson Torvik, f. 26. mars 1957.
 
@@ -512,7 +509,7 @@ f. Dina Gudrun Olavsdtr. Torvik, f. 21. desember 1915. Ho er i Oslo og har for d
 6. Anne Sofie Johannesdtr. Torvik, f. 10. juli 1889, g. 1913 med Peder Olaviusson Leine, f. 5. mars 1888. Bustad Leine y., br.nr. 42, Heimly. Peder fekk skøyte 1955 frå brorsønene Olav og Peder G. Leine. Tomta er utskilt frå br.nr. 2, og han bygde ny stove 1916. Peder var fiskar og han døydde 1956. — 4 barn, a—d:
 
 a. Osvald Daniel Pedersson Leine, f. 28. juni 1914, g. 1943 med Judit Adolfsdtr. Voldsund frå Herøy, f. 4. september 1914. Bustad: Voldsund, br.nr. 26, Heimtun, som er utskilt frå 
- 
+
 // Bilde
 
 Judith og Osvald Leine. Barna f. v.: Sigrun — som brud — Andor, Peder og Jartrud.
@@ -737,7 +734,7 @@ Andreas J. Brandal.
 
 var frå 40 års alderen mykje plaga av astma og kunne såleis ikkje kome i uthusa.
 
-På den tid var det vanleg at barna i 4—5 års alderen og oppover ikkje måtte sovne kveldane før dei fekk seg kveldsmat i 8—9 tida. Når så han «Jon Blund» tok til å vinne over oss barna, byrja mor å fortelje eventyr og historier, og det gjorde ho på ein slik meisterleg måte at barneaugene vart blanke og vi høyrde etter i stor spaning. Ho hadde også eit særs godt lag med å spørje barna i lekse — katekisere. Eg kan minnast far saå ein gong: «Du er så flink å spørje at du ville meistre mang ein prest.»
+På den tid var det vanleg at barna i 4—5 års alderen og oppover ikkje måtte sovne kveldane før dei fekk seg kveldsmat i 8—9 tida. Når så han «Jon Blund» tok til å vinne over oss barna, byrja mor å fortelje eventyr og historier, og det gjorde ho på ein slik meisterleg måte at barneaugene vart blanke og vi høyrde etter i stor spaning. Ho hadde også eit særs godt lag med å spørje barna i lekse — katekisere. Eg kan minnast far sa ein gong: «Du er så flink å spørje at du ville meistre mang ein prest.»
 
 Andreas Jakobsson døydde 10. juli 1945 — 91 år gammal, og Anna Olsdtr. døydde 24. februar 1957 — 95 år gammal. — 10 barn, 1—10:
 
@@ -996,7 +993,7 @@ Kristian Rasmusson døydde 26. april 1943 — 87 år gammal, Jørgine Jakobsdtr.
 
 Rasmus Kristiansson dødde 21. mai 1941, og Ellen døydde 16. april 1969. — 4 barn, I—IV:
 
-I. Lars Petter Rasmusson Sandnes, f. 31. mai 1915, g. med Lilly Sjøvik, f. 19. mai 1916 i AÅlesund. Lars har gått Gjermundnes landbruksskole og overtok farsgarden Bjørstad. — 3 barn, 1—3:
+I. Lars Petter Rasmusson Sandnes, f. 31. mai 1915, g. med Lilly Sjøvik, f. 19. mai 1916 i Ålesund. Lars har gått Gjermundnes landbruksskole og overtok farsgarden Bjørstad. — 3 barn, 1—3:
 
 1. Rolv Larsson Sandnes, f. 21. juni 1945. Han har folkehøgskolen, Ørsta, 2 vinterkurs på Gjermundnes og eit vinterkurs på bondelagets folkehøgskole, Mysen.
 
@@ -1026,7 +1023,7 @@ Kristian kom tidleg med i kommunalt styr og stell, og han vart og med i styret i
 
 4. Marta Kristiansdtr. Sandnes, f. 19. november 1963.
 
-I. Laura Jacobsdtr. Sandnes, f. 29. juli 1923, g. 1950 med Knut Myklebust frå Nordfjordeid, f. 1923. Laura er utlærd telegrafdame og styrer stasjonen på N.eid. Mannen er adjunkt og tilsett i skoleverket på Nordfjordeid. Eitt barn: Brit Knutsdtr. Myklebust, f. 31. august 1952.
+II. Laura Jacobsdtr. Sandnes, f. 29. juli 1923, g. 1950 med Knut Myklebust frå Nordfjordeid, f. 1923. Laura er utlærd telegrafdame og styrer stasjonen på N.eid. Mannen er adjunkt og tilsett i skoleverket på Nordfjordeid. Eitt barn: Brit Knutsdtr. Myklebust, f. 31. august 1952.
 
 III. Jorun Jacobsdtr. Sandnes, f. 29. juni 1926, g. 1955 med Torstein Tørnby, Rødenes i Austfold, f. 1926. Jorun er utlærd telegrafdame, og har arbeid på stasjon i Oslo. Mannen arbeider og i Oslo som sjåfør. Dei har farsgarden hans i Rødenes. Dei har ikkje barn.
 
@@ -1040,7 +1037,7 @@ Bertel var lærar i Meløy og Time og lærar og klokkar i Austefjorden, Volda. D
 
 I. Kjartan Pålsson Sandnes, f. 23. juli 1927, g. med Karin Wærness frå Vadsø, f. 24. april 1928. Kjartan er radiotelegrafist og var nokre år i utanriksfart. Han er no tilsett i NATO og bur på Heimdal.
 
-II. Asgeir Pålsson Sandnes, f. 21. november 1928, g. med Rita Rasch frå Vesterålen, f. 27. mars 1936. Han og er utdanna radiotelegrafist og för nokre år i utanriksfart. Deretter tok han juridisk eksamen, og han er tilsett på Fylkeskontoret for Sogn og Fjordane. — 3 barn, 1—3:
+II. Asgeir Pålsson Sandnes, f. 21. november 1928, g. med Rita Rasch frå Vesterålen, f. 27. mars 1936. Han og er utdanna radiotelegrafist og fòr nokre år i utanriksfart. Deretter tok han juridisk eksamen, og han er tilsett på Fylkeskontoret for Sogn og Fjordane. — 3 barn, 1—3:
 
 1. Pål Asgeirsson Sandnes, f. 28. juni 1962.
 
@@ -1048,7 +1045,7 @@ II. Asgeir Pålsson Sandnes, f. 21. november 1928, g. med Rita Rasch frå Vester
 
 3. Kjetil Asgeirsson Sandnes, f. 17. februar 1967.
 
-6. Kristian Kristiansson Sandnes, f. 15. mai 1894, g. 1933 med Anna Nedreklepp, Volda, f. 1911. Kristian tok eksamen artium på Voss, Landbrukshøgskolen på Ås — jordbrukslina. Han vart bureisingsmann på Høgtun i Sandnesmyrane, bygde nytt bustadhus og løe. Der starta han ein stor sølvrevfarm, og han vart mykje nytta som dommar på sølvrevsjå rundt i landet og til å førebu skinnauksjonane i Oslo. Kristian brådøydde i AÅlesund april 1945. — Ikkje barn.
+6. Kristian Kristiansson Sandnes, f. 15. mai 1894, g. 1933 med Anna Nedreklepp, Volda, f. 1911. Kristian tok eksamen artium på Voss, Landbrukshøgskolen på Ås — jordbrukslina. Han vart bureisingsmann på Høgtun i Sandnesmyrane, bygde nytt bustadhus og løe. Der starta han ein stor sølvrevfarm, og han vart mykje nytta som dommar på sølvrevsjå rundt i landet og til å førebu skinnauksjonane i Oslo. Kristian brådøydde i Ålesund april 1945. — Ikkje barn.
 
 1. Brit Kristiansdtr. Sandnes, f. 20. januar 1897. Ho er utlærd Nasjonalforeningssyster. Ho arbeidde først på Vestnes tuberkuloseheim, vart så styrarinne på tuberkuloseheimen i Gloppen. Deretter oversyster ved Ålesunds Sjukehus der ho slutta 1959 med pensjon. Ho reiste så heimatt til Sandnes og styrde fødestova i Syvde mange år.
 
@@ -1227,7 +1224,7 @@ V. Bjørn Ottar Bjarnesson Brende, f. 30. desember 1945, g. 11. juli 1969 med So
 
 4. Margit Johansdtr. Pilskog, f. 29. januar 1908. Ho er paslent ved Hareid pleieheim. Ho har ei dotter. Marie Bjarnesdtr. Sætre, Vartdal, f. 26. mai 1935, g. 1964 med Bjørn Karspersson Jespersen frå Oslo, f. 1932. Bjørn er forretningsmann i Oslo. — Eitt barn: Karstein Johan Jespersen, f. 4. desember 1967.
 
-9. Hjørdis Johansdtr. Pilskog, f. 12. januar 1911, g. 1936 med Leif Ofstad frå AÅlesund, f. 1910. Ekteskapet vart oppløyst 1944. Hjørdis har handels- og husmorskole og er kontordame. — Eitt barn: Ester Leifsdtr. Ofstad, f. 1937. Ho er handelsutdanna og er resepsjonsdame ved Fylkessjukehuset, Tromsø. Ho vart gift 1956 med Tormod Eriksen frå Tromsø, der han er tollbetjent. — 3 barn, 1—3:
+9. Hjørdis Johansdtr. Pilskog, f. 12. januar 1911, g. 1936 med Leif Ofstad frå Ålesund, f. 1910. Ekteskapet vart oppløyst 1944. Hjørdis har handels- og husmorskole og er kontordame. — Eitt barn: Ester Leifsdtr. Ofstad, f. 1937. Ho er handelsutdanna og er resepsjonsdame ved Fylkessjukehuset, Tromsø. Ho vart gift 1956 med Tormod Eriksen frå Tromsø, der han er tollbetjent. — 3 barn, 1—3:
 
 1. Børre Tormodsson Eriksen, f. 1957.
 
@@ -1293,7 +1290,7 @@ II. Haldis Johannesdtr. Overå, f. 15. oktober 1922, g. 1947 med Arnulf Jonasson
 
 3. Jarle Arnulfsson Kjøde, f. 2. februar 1961.
 
-f. Harald Johansson ÖOverå, f. 5. juni 1891, g. 1. september 1918 med Ragna Olaisdtr. Overå, f. 1. januar 1895. Harald var fiskar heilt fram til 1937, då han fekk arbeid ved Hjørungavåg mek. verkstad. Han slutta ved nådd aldersgrense. I 1920 kjøpte han eit nesten nytt, stort bustadhus på Overå kalla «Fjordglytt». — Ragna Olaisdtr. døydde av kreft 14. november 1967. — 2 barn, 1—2:
+f. Harald Johansson Overå, f. 5. juni 1891, g. 1. september 1918 med Ragna Olaisdtr. Overå, f. 1. januar 1895. Harald var fiskar heilt fram til 1937, då han fekk arbeid ved Hjørungavåg mek. verkstad. Han slutta ved nådd aldersgrense. I 1920 kjøpte han eit nesten nytt, stort bustadhus på Overå kalla «Fjordglytt». — Ragna Olaisdtr. døydde av kreft 14. november 1967. — 2 barn, 1—2:
 
 1. Johanne Haraldsdtr. Overå, f. 6. oktober 1919, g. 28. mai 1940 med Jon Andreasson Myklebust frå Søre Vartdal, f. 26. oktober 1913. Jon er utdanna maskinist og har vore maskinist på fiskebåtar. Dei siste åra har han hatt arbeid ved Hjørungavåg mek. verkstad. — 3 barn, I—III
 
@@ -1371,7 +1368,7 @@ Rasmus Knutsson Hareide døydde 1947. Mina Johannesdtr. døydde 1949 — 88 år 
 
 k. Arnleif Kåre Johansson, Gamlem, f. 14. oktober 1912 døydde 21. november 1914. (Han fall i ei gryte kokande vatn).
 
-l. Rolf Arne Johansson Elvebu, f. 10. september 1914. Han har alle maskinist-skoler og er maskinsjef. Han var gift 18. mai 1946 med Randi Kirsten Petrine Haugen frå AÅlesund, f. 30. januar 1913. Husmorskole. Dei bur på Elvebu, Hareid og har såleis teke Elvebu som familienamn. — 2 barn, 1—2:
+l. Rolf Arne Johansson Elvebu, f. 10. september 1914. Han har alle maskinist-skoler og er maskinsjef. Han var gift 18. mai 1946 med Randi Kirsten Petrine Haugen frå Ålesund, f. 30. januar 1913. Husmorskole. Dei bur på Elvebu, Hareid og har såleis teke Elvebu som familienamn. — 2 barn, 1—2:
 
 1. Kolbjørn Ragnar Rolvsson Elvebu, f. 23. juni 1947, g. 30. september 1967 med Jorun Helene Olsen frå Balangen, f. 3. september 1947. Handelsskole. Hausten 1969 byrja Kolbjørn på maskinistskolen. Bustad: Hareid. Dei har to barn: Roger Magne, f. 20. februar 1968 og Bente Margret, f. 7. august 1969.
 
@@ -1449,7 +1446,7 @@ I. Einar Reidar Karlsson Frøysa, f. 14. august 1919. Handelsskole. Han vart gif
 
 4. Kjerstin Einarsdtr. Frøysa, f. 18. oktober 1958.
 
-I. Reidulf Karlsson Frøysa, f. 26. januar 1921. Lærarskolen. Han vart gift 28. oktober 1950 med Gerd Olaug Eiksund frå Eiksund i Ulstein, f. 11. april 1928. Reidulf er lærar på Hareid og dei bur der. — 1 barn: Kari Sunnøve Reidulfsdtr. Frøysa, f. 26. desember 1952.
+II. Reidulf Karlsson Frøysa, f. 26. januar 1921. Lærarskolen. Han vart gift 28. oktober 1950 med Gerd Olaug Eiksund frå Eiksund i Ulstein, f. 11. april 1928. Reidulf er lærar på Hareid og dei bur der. — 1 barn: Kari Sunnøve Reidulfsdtr. Frøysa, f. 26. desember 1952.
 
 III. Hjørdis Karlsdtr. Frøysa, f. 9. januar 1923, g. 14. april 1944 med Kåre Haldor Sæverud frå Hareid, f. 18. juli 1920. — Kåre er snikkar. — 4 barn, 1—4:
 
@@ -1582,7 +1579,7 @@ På hans 50-års dag vart det skrive om han: «Kaptein Jørgensen er en meget dy
 
 2. Aslaug Hansteen Jørgensen, f. 28. mars 1896, g. 1924 med ingeniør Sigurd Bakke Fagerberg frå Idd i Østfold, f. 16. mars 1884. Bakke Fagerberg vart tilsett som driftsstyrar ved Tafjord Kraftselskap då den første utbygginga i Tafjord vart starta. Han har såleis vore driftsstyrar og den øvste leiar av dei seinare utbyggingar i Tafjord til nådd aldersgrense. — Dei har ikkje barn.
 
-3. Hjørdis Hansteen Jørgensen, f. 22. november 18985, g. 1922 med Albert Emil Gjørtz frå Ålesund, f. 17. september 1887. Hjørdis har real- og handelsskole. Albert Emil har eksamen artium og handelsskole og vart sommaren 1904 tilsett i sin fars forretning med firmanamn: Albert Gjørtz A/S, Ålesund — bok- og papirforretning. Denne forretninga vart etablert 1. mai 1882. Albert Emil Gjørtz er styreformann og han er eigar av dei fleste aksjer i forretninga, og han arbeider der framleis. — 3 barn, I— III:
+3. Hjørdis Hansteen Jørgensen, f. 22. november 1898, g. 1922 med Albert Emil Gjørtz frå Ålesund, f. 17. september 1887. Hjørdis har real- og handelsskole. Albert Emil har eksamen artium og handelsskole og vart sommaren 1904 tilsett i sin fars forretning med firmanamn: Albert Gjørtz A/S, Ålesund — bok- og papirforretning. Denne forretninga vart etablert 1. mai 1882. Albert Emil Gjørtz er styreformann og han er eigar av dei fleste aksjer i forretninga, og han arbeider der framleis. — 3 barn, I— III:
 
 I. Kari Albertsdtr. Gjørtz, f. 3. september 1923, g. 8. Juni 1951 med Hans Vestre Huse frå Brattvåg, f. 2. januar 1921. — Kari Albertsdtr. har eksamen artium. Hans Vestre Huse er ingeniør og disponent for Hydraulik, Brattvåg, og dei bur der i eige hus. — 4 barn, 1—4:
 
@@ -1594,7 +1591,7 @@ I. Kari Albertsdtr. Gjørtz, f. 3. september 1923, g. 8. Juni 1951 med Hans Vest
 
 4. Helge Hansson Vestre Huse, f. 2. oktober 1964.
 
-I. Albert Emil Gjørtz, f. 1924 i Ålesund, g. 3. november 1956 med Annlaug Dahl frå Dalsfjord, f. 24. april 1935. Fødd av foreldre: Gardb. Sverre Dahl og kona Bjørg frå Dalsfjord.
+II. Albert Emil Gjørtz, f. 1924 i Ålesund, g. 3. november 1956 med Annlaug Dahl frå Dalsfjord, f. 24. april 1935. Fødd av foreldre: Gardb. Sverre Dahl og kona Bjørg frå Dalsfjord.
 
 Albert har realskole og 2-årig handelsgymnas frå Volda, og han har bokhandlarskole frå Oslo. Han er tilsett som disponent for Albert Gjørtz A/S Bok- og Papirhandel, Ålesund. — Eitt barn: Albert Emil Gjørtz, f. 24. juni 1999.
 
@@ -1733,7 +1730,7 @@ III. Ansgar Olav Antonsson Flåen, f. 16. april 1919, g. 24. mai 1947 med Selma 
 
 4. Sigrid Arna Ansgarsdtr. Flåen, f. 2. juli 1952.
 
-5. Margrete Randi Ansgarsdtr. Flåen, f. 11. november 19595.
+5. Margrete Randi Ansgarsdtr. Flåen, f. 11. november 1955.
 
 6. Herlaug Otrun Ansgarsdtr. Flåen, f. 25. september 1957.
 
@@ -1777,7 +1774,7 @@ VII. Aase Antonsdtr. Flåen, f. 23. mars 1935, g. 27. april 1957 med Åsmund Arn
 
 3. Aud Kristin Åsmundsdtr. Godøy, f. 30. november 1964.
 
-4. Tore André Åsmundsson Godøy, f. 14. Jjuli 1966.
+4. Tore André Åsmundsson Godøy, f. 14. juli 1966.
 
 VIII. Kari Oline Antonsdtr. Flåen, f. 29. mars 1937, g. 17. september 1960 med Lars Konrad Valderhaug, f. 23. juli 1937. Kari har handels- og husmorskole. Konrad er fiskar. — 2 barn,
 
@@ -1863,6 +1860,8 @@ I. Jostein Ove Jonsson Flø, f. 26. september 1954.
 
 II. Ragnhild Jonsdtr. Flø, f. 2. Januar 1956.
 
+// Todo: antek at dette er feil, og at det skal vere Flø. Står Fløø i boka.
+
 III. Birger Jonsson Fløø, f. 3. september 1958.
 
 IV: Erna Jorun Jonsdtr. Flø, f. 2. juni 1961.
@@ -1924,7 +1923,7 @@ b. Karen Ludvigsdtr. Mathisen, f. 18. november 1904. — «High school». Ho er 
 
 c. Lillian Ludvigsdtr. Mathisen, f. 8. august 1906. «High school». Lillian vart gift med John M. Barron, f. 8. august 1906. Han var bokhaldar (accountant). Dei hadde ikkje barn. Lillian døydde 14. april 1936.
 
-d. Dagny Ludvigsdtr. Mathisen, f. 19. mars 1908. Også ho har «High school» og er tilsett som bokhaldar hos ein skole- styrar i Needham, Massachusetts.
+d. Dagny Ludvigsdtr. Mathisen, f. 19. mars 1908. Også ho har «High school» og er tilsett som bokhaldar hos ein skolestyrar i Needham, Massachusetts.
 
 9. Ingvald Olav Danielsson Paulsen, f. 20. november 1877. Han var utlærd gullsmed og hadde eiga gullsmed-forretning i Skansen, Ålesund. Ingvald Paulsen fekk tidleg tuberkulose og døydde 1907. Ugift.
 
@@ -2052,7 +2051,7 @@ s. Jerry Odinsdtr. Engeset, f. 1937.
 
 7. Ragna Rasmusdtr. Tødenes, f. 30. oktober 1899, g. 2. desember 1921, med Peter Sætre frå Søre-Vartdal, f. 11. oktober 1899. Dei har småbruk på Søre-Vartdal og bur der. Peter var i lang tid vegvaktar. — 2 barn, I—II:
 
-I. Reidar Petersson Sætre, f. 11. april 1922Z, g. 12. oktober 1947 med Solveig, f. Løset, f. 8. oktober 1922. Reidar er bygningsmann, og dei bur på heimegarden på Søre-Vartdal. — 2 barn, 1—2: .
+I. Reidar Petersson Sætre, f. 11. april 1922, g. 12. oktober 1947 med Solveig, f. Løset, f. 8. oktober 1922. Reidar er bygningsmann, og dei bur på heimegarden på Søre-Vartdal. — 2 barn, 1—2: .
 
 1. Rigmor Reidarsdtr. Sætre, f. 24. juli 1948.
 
@@ -2130,11 +2129,11 @@ IV. Jon Karlsson Myklebust, f. 7. januar 1929, g. 1956 med Petra Jørgensdtr. Br
 
 2. Anna Antonsdtr. Slåttelid, f. 7. juni 1889, g. 1914 med Sivert Gulliksson Høydalsvik frå Volda, f. 14. april 1888. Dei fekk skøyte på «Slåttelid», br.nr. 3, «Sollid», av Anton Slåttelid, 13. juni 1915, og dei brukte garden til 1953. Dette bruket er avdelt frå br.nr. 1 og skyldsett 8. juni 1915. Sidan 1915 har Sivert dyrka opp 10 mål av innmarka og kulturbeite har bruket hatt sidan 1950. Sivert var også målar.
 
-På Sivert Høydalsvik sin 80 års dag, 1968, har ein ven skrive dette: «Målar og gardbrukar Sivert Høydalsvik, Sylte i Vanylven, fyller 80 år påskedag den 14. april. Han er fødd og oppvaksen på garden Høydalsvik i Volda, og gifte seg i 1914 med Anna, f. Slåttelid i Vanylven. Her bygde dei to seg ein vakker og uneleg heim. Nye hus vart bygde og eit stort nydyrkingsarbeid vart gjort.Som ung var Sivert med i fiske, og sumarstida var det serleg målararbeid han dreiv med. Han har alltid vore ikkje så lite av ein kunstnar, noko som ikkje minst har kome til uttrykk i dei siste år, då rosemåling har vore ei av hans største interesser. Kunstnarsinnet har og gitt seg andre utslag. Sivert har alltid sett pris på god lyrikk, og har jamvel skrive ein del sjølv, «til eige bruk», som han sjølv saå det ein gong.»
+På Sivert Høydalsvik sin 80 års dag, 1968, har ein ven skrive dette: «Målar og gardbrukar Sivert Høydalsvik, Sylte i Vanylven, fyller 80 år påskedag den 14. april. Han er fødd og oppvaksen på garden Høydalsvik i Volda, og gifte seg i 1914 med Anna, f. Slåttelid i Vanylven. Her bygde dei to seg ein vakker og uneleg heim. Nye hus vart bygde og eit stort nydyrkingsarbeid vart gjort.Som ung var Sivert med i fiske, og sumarstida var det serleg målararbeid han dreiv med. Han har alltid vore ikkje så lite av ein kunstnar, noko som ikkje minst har kome til uttrykk i dei siste år, då rosemåling har vore ei av hans største interesser. Kunstnarsinnet har og gitt seg andre utslag. Sivert har alltid sett pris på god lyrikk, og har jamvel skrive ein del sjølv, «til eige bruk», som han sjølv sa det ein gong.»
 
 Anna Antonsdtr. døydde 6. mars 1970. — 9 barn, I—IX:
 
-I. Ragnhild Sivertsdtr. Høydalsvik, f. 16. april 1915, g. 1942 med Reidar Engeset frå Volda. Reidar er kjemiingeniør og han er lærar ved yrkesskolen i Ørsta. Dei bur i Volda. Dei har ikkje barn, men dei haår adoptert ein tvillingson til Ragnhild si syster, Karen, Arne, f. 6. november 1948. Han går på gymnaset i Volda (1969).
+I. Ragnhild Sivertsdtr. Høydalsvik, f. 16. april 1915, g. 1942 med Reidar Engeset frå Volda. Reidar er kjemiingeniør og han er lærar ved yrkesskolen i Ørsta. Dei bur i Volda. Dei har ikkje barn, men dei har adoptert ein tvillingson til Ragnhild si syster, Karen, Arne, f. 6. november 1948. Han går på gymnaset i Volda (1969).
 
 II. Georg Sivertsson Høydalsvik, f. 18. april 1915, g. 18. august 1946 med Lydia Larsdtr. Eikrem, frå Borgund, f. 31. juli 1922.
 
@@ -2192,8 +2191,7 @@ VII. Sverre Sivertsson Høydalsvik, f. 26. august 1927, g. 1961 med Randi Osvik 
 
 VIII. Osvald Sivertsson Høydalsvik, f. 29. mars 1930. Han er bygningsleiar på Stranda.
 
-IX. Arvid Sivertsson Høydalsvik, f. 13. desember 1934, g. 1966 med Bjørg Dal frå Stranda. Arvid er møbeltapetserar, og dei bur på Stranda. — 1 barn: Kari Anne Arvidsdtr. Høy-
-dalsvik, f. 30. november 1966.
+IX. Arvid Sivertsson Høydalsvik, f. 13. desember 1934, g. 1966 med Bjørg Dal frå Stranda. Arvid er møbeltapetserar, og dei bur på Stranda. — 1 barn: Kari Anne Arvidsdtr. Høydalsvik, f. 30. november 1966.
 
 3. Hans Antonsson Slåttelid, f. 5. mai 1894, g. med Tora Høydalsvik — syster til Sivert Høydalsvik. Tora døydde 28. juli 1961. Hans gifte seg 2. gong 24. mars 1962, med Jenny Heggelund frå Innvik i Nordfjord. Hans var gardbrukar på Slåttelid, br.nr. 1, frå 1918 til 1953. I 1953 skøytte han garden til brørne, Alfred og Jon Karlsson Myklebust.
 
@@ -2271,11 +2269,11 @@ l. Odd Sindre Oddsson Torset, f. 7. februar 1945. Eksamen artium, Volda gymnas, 
 
 m. Trond Oddsson Torset, f. 21. mai 1949. Realskoleeksamen. Han går på Volda gymnas, (1968).
 
-n. Barbro Kanutte Oddsdtr. Torset, f. 27. august 19959.
+n. Barbro Kanutte Oddsdtr. Torset, f. 27. august 1959.
 
 II. Trygve Petersson Sandvik, f. 5. juli 1917, g. 12. april 1942, med Sigrid Olsen, f. 24. februar 1918.
 
-Trygve tok over bustadhuset i Breivik etter mor si. Han har sitt arbeid ved Breivik Kalkverk A/S, og ei tid var han formann. Sidan det vart så mykje monterings- og vedlikehaldsarbeid ved bedrifta, har han for det meste vore oppteken med det. — Trygve var ein av dei som var med i krigen i Noreg 1I 1940. Han gjorde teneste ved 2. feltkompani, Møre regiment, som sjåfør. Han har deltakarmedaljen. — 5 barn, k—o:
+Trygve tok over bustadhuset i Breivik etter mor si. Han har sitt arbeid ved Breivik Kalkverk A/S, og ei tid var han formann. Sidan det vart så mykje monterings- og vedlikehaldsarbeid ved bedrifta, har han for det meste vore oppteken med det. — Trygve var ein av dei som var med i krigen i Noreg i 1940. Han gjorde teneste ved 2. feltkompani, Møre regiment, som sjåfør. Han har deltakarmedaljen. — 5 barn, k—o:
 
 k. Karin Trygvesdtr. Sandvik, f. 20. april 1942, g. 30. desember 1962 med Magne Arne Johnsson Engeset frå Ørsta, f. 31. juli 1935. Han har real- og yrkesskole. Magne er odelsgut. Han har fått skøyte på farsbruket på Engeset i Ørsta, og dei bur der. — 3 barn, 1—3:
 
@@ -2307,7 +2305,7 @@ III. John Petersson Sandvik, f. 4. mars 1919, g. 31. mars 1956, med Lena Winther
 
 3. Arild Peter Johnsson Sandvik, f. 29. juni 1963.
 
-IV. Kåre Petersson Sandvik, f. 20. desember 1920,z. 1957 med Aase Johansen, Asmaløy, Hvaler, f. 2. februar 1929. Kåre tok styrmannseksamen i Oslo, skipsførareksamen, Sandefjord. Han er lasteoffiser i Wilhelmsens rederi. Dei bur i Fredrikstad. — 2 barn, 1—2:
+IV. Kåre Petersson Sandvik, f. 20. desember 1920, g. 1957 med Aase Johansen, Asmaløy, Hvaler, f. 2. februar 1929. Kåre tok styrmannseksamen i Oslo, skipsførareksamen, Sandefjord. Han er lasteoffiser i Wilhelmsens rederi. Dei bur i Fredrikstad. — 2 barn, 1—2:
 
 1. Synnøve Kåresdtr. Sandvik, f. 10. desember 1958.
 
@@ -2371,17 +2369,17 @@ IV. Øystein Andreasson Tødenes, f. 24. november 1941. Han har eksamen artium o
 
 3. Ingeborg Petersdtr. Tødenes, f. 9. september 1895, g. 1917 med Leonard Stenshamn, Harøy, f. 15. oktober 1893. Leonard var fiskeskipper og hadde eigen båt. Han bygde nytt bustadhus på Steinshamn og bur der. — 4 barn, I—IV:
 
-I. Jorun Leonardsdtr. Stenshamn, f. 12. september 19138, g. 14. desember 1941, med Peder Breivik, Harøy, f. 2. oktober 1911. — Peder er fabrikkarbeidar. Dei bygde nytt bustadhus på Steinshamn og bur der. — 2 barn, 1—2:
+I. Jorun Leonardsdtr. Stenshamn, f. 12. september 1918, g. 14. desember 1941, med Peder Breivik, Harøy, f. 2. oktober 1911. — Peder er fabrikkarbeidar. Dei bygde nytt bustadhus på Steinshamn og bur der. — 2 barn, 1—2:
 
 1. Kåre Roger Pedersson Breivik, f. 15. november 1943. — Han har eksamen artium og studerar ved det matematiske naturvitenskapelege fakultet i Bergen. (1968).
 
 2. Inger Lise Pedersdtr. Breivik, f. 5. februar 1951. Ho har realskole og går på gymnas. (1968).
 
-I. Ivar Leonardsson Stenshamn, f. 1. jan. 1925, g. 19. mai 1951, med Kari Loe frå Ålesund, f. 4. januar 1927. Ivar har styrmannsskole og høgare skipperskole. Han er skipsførar på tankbåt. Seglar på Østen. Dei kjøpte hus i Ålesund og bur der. — 2 barn, 1—2:
+II. Ivar Leonardsson Stenshamn, f. 1. jan. 1925, g. 19. mai 1951, med Kari Loe frå Ålesund, f. 4. januar 1927. Ivar har styrmannsskole og høgare skipperskole. Han er skipsførar på tankbåt. Seglar på Østen. Dei kjøpte hus i Ålesund og bur der. — 2 barn, 1—2:
 
 1. Sigurd Loe Ivarsson Stenshamn, f. 4. april 1955.
 
-2. Stein Ivar Ivarsson Stenshamn, f. 15. mars 19959.
+2. Stein Ivar Ivarsson Stenshamn, f. 15. mars 1959.
 
 III. Hjartrud Leonardsdtr. Stenshamn, f. 3. mars 1929, g. 21. juni 1952 med John Slåtten, Førde i Sunnfjord, f. 15. desember 1924. — John er maskinmekanikar og dei bur på Steinshamn. — 4 barn, 1—4:
 
@@ -2403,7 +2401,7 @@ I. Per Petersson Tødenes, f. 20. desember 1930, g. 27. juli 1963, med Aslaug Ki
 
 Per har handelsskole, Molde arbeidsskole og kystskipperskole kl. I. Han har vore styrmann i Møre og Romsdal Fylkesbåtar. Frå januar 1968, er han tilsett som bankassistent i Sande og Rovde Sparebank, Larsnes. Han bur på farsgarden. — 1 barn: Randi Merete Persdtr. Tødenes, f. 10. april 1964.
 
-II. Bergliot Petersdtr. Tødenes, f. 6. september 1934. Ho har 4-årig lærarskole, og er utdanna frå musikkkonservatoriet 1I Bergen. Ho har vore kyrkjeorganist og songlærar. Bergljot vart i 1964 tilsett som lærar og konstituert styrar i Vågen krins i Sande, og i 1966 vart ho tilsett som lærar ved Godtemplar-høgskolen, Åsane ved Bergen.
+II. Bergliot Petersdtr. Tødenes, f. 6. september 1934. Ho har 4-årig lærarskole, og er utdanna frå musikk-konservatoriet i Bergen. Ho har vore kyrkjeorganist og songlærar. Bergljot vart i 1964 tilsett som lærar og konstituert styrar i Vågen krins i Sande, og i 1966 vart ho tilsett som lærar ved Godtemplar-høgskolen, Åsane ved Bergen.
 
 III. Jostein Petersson Tødenes, f. 12. mars 1937, g. 27. aug. 1960, med Bjørg Kleiven, Ekkilsøy, Nordmøre, f. 12. oktober 1941. Bjørg har real- og husmorskole. Jostein har 1-årig delsskole, realskole og 4-årig lærarskole. Han var 3 år lærar ved framhaldskolen i Fræna kommune i Romsdal, og vart i 1966 tilsett som lærar og konstituert styrar ved Vågen skole i Sande. — Jostein bygde nytt bustadhus på farsgarden i Årvik, Skredestranda, og bur der. — 2 barn, 1—2:
 
@@ -2411,7 +2409,7 @@ III. Jostein Petersson Tødenes, f. 12. mars 1937, g. 27. aug. 1960, med Bjørg 
 
 2. Ann Ingvill Josteinsdtr. Tødenes, f. 18. april 1962.
 
-5. Hans Petersson Tødenes, f. 21. november 1899, z. 6. desember 1932, med Emma Annaniasdtr. Torset frå Skredestranda, f. 3. mars 1902. — Hans bygde nye hus på parsellen «Berglund», som låg under farsgarden Årvik, og bur der. Hans er fiskar og arbeidar. — Emma Annaniasdtr. døydde 27. januar 1957. — 1 barn:
+5. Hans Petersson Tødenes, f. 21. november 1899, g. 6. desember 1932, med Emma Annaniasdtr. Torset frå Skredestranda, f. 3. mars 1902. — Hans bygde nye hus på parsellen «Berglund», som låg under farsgarden Årvik, og bur der. Hans er fiskar og arbeidar. — Emma Annaniasdtr. døydde 27. januar 1957. — 1 barn:
 
 Asbjørn Hansson Tødenes, f. 20. januar 1933, g. 25. januar 1964, med Berit Madsdtr. frå Ålesund. Handelsskole. Asbjørn har handels- og realskole. Han har vore kontorist i Ålesund, men er no (1968) tilsett ved det kommunale kontor i Sande på Larsnes. — 1 barn: Merete Asbjørnsdtr. Tødenes, f. 18. juli 1965.
 
@@ -2510,7 +2508,7 @@ Laurits Helland var bygningsmann, og han var mange år i Everett før han gifte 
 
 // Bilde
 Ragna Helland (på 90-årsdagen 1969).
- 
+
 i Rockefeller ave. Han kunne såleis føre bruda si inn i ein ny, vakker heim, ikkje langt frå sentrum i byen.
 
 Hobby: Laurits Helland var svært glad i song, og han var med i eit songkor heilt fram mot alderdommen. Laurits Larsson Helland døydde 13. juni 1960. — 5 barn, 1—5:
@@ -2537,7 +2535,7 @@ I. Necklas, er student og går på universitetet i Seattle Wash. (1968).
 
 II. Stiven, går på junior gymnas i Everett, Wash. (1968).
 
-IV. Mathias Jakobsson Sande, f. 6. august 1882Z, g. med Larsine Olsen frå Stavanger, f. 1883. Mathias hadde styrmannsskolen, og han reiste i lang tid til sjøs som styrmann, og siste åra som kaptein. Han slutta sjøen, og i 1916 kjøpte han forretninga, vanleg landhandel, av Melchior Falk Vilnes, Gurskøy, og han dreiv handel der til 1935. Sverker Moe, Gurskøy, overtok handelen og var der til 1946. Då Mathias kom opp i åra, var han mykje plaga av astma. Dei hadde ikkje barn. Larsine Olsen døydde i 1940 og Mathias Jakobsson døydde i 1958.
+IV. Mathias Jakobsson Sande, f. 6. august 1882, g. med Larsine Olsen frå Stavanger, f. 1883. Mathias hadde styrmannsskolen, og han reiste i lang tid til sjøs som styrmann, og siste åra som kaptein. Han slutta sjøen, og i 1916 kjøpte han forretninga, vanleg landhandel, av Melchior Falk Vilnes, Gurskøy, og han dreiv handel der til 1935. Sverker Moe, Gurskøy, overtok handelen og var der til 1946. Då Mathias kom opp i åra, var han mykje plaga av astma. Dei hadde ikkje barn. Larsine Olsen døydde i 1940 og Mathias Jakobsson døydde i 1958.
 
 V. Dorthea Jakobsdtr. Sande, f. 19. januar 1885. I 1912 reiste ho til systera si, Ragna, i Everett, Wash., der ho døydde alt 29. september 1913 etter ein blindtarmoperasjon, 28 år gammal. Ugift.
 
@@ -2929,6 +2927,8 @@ Daniel Liseth har eksamen artium, handelsgymnas og han er cand. jur. Han har 15 
 
 II. Kari Martinsdtr. Liseth, f. 2. januar 1929 i Ålesund. Ho har eksamen artium og er kontordame. Gift med Peder Haagensen frå Ballstad, Lofoten, f. 30. september 1931. Dei har busett seg i Ålesund. — 1 barn, Jan Martin Pedersson Haagensen, f. 28. mars 1952 i Ballstad, Lofoten.
 
+// Todo: Sjekk om Øvvind er rett, eller om det skal vere Øyvind. Står Øvvind i boka.
+
 5. Olga Danielsdtr. Liseth, f. 3. april 1897, g. med Øvvind Hogstad. Olga Danielsdtr. var kontordame i «Andvake», Oslo, til ho døydde i 1955. Ikkje barn.
 
 6. Dagny Danielsdtr. Liseth, f. på Rovde 23. februar 1900, g. 2. juni 1921 med Ivar Jakobsson Slettevoll, f. på Rovde 7. oktober 1893. Dagny Slettevoll vart tilsett som postopnar på Rovde då far hennar døydde i 1928. Samstundes har ho vore styrar av rikstelefonstasjonen på Rovde heilt fram til 1965, då son hennar, Steinar, overtok den.
@@ -3150,7 +3150,7 @@ I R. J. Vasbotns «Tidsregister» på side 55 og s1de 76 står det slik:
 
 Vidare opplysningar frå Knut J. Hasund om borna til Anders Ellingson Saunes og kona Pernille Børresdtr.:
 
-1. Nils Anderson, f. 28. juni 1780, døydde på Ulstein 5. november 1854. Gift 2 gonger. Gift 1. med Anna Olsdtr. Ulstein. Gift 2. med Kari Rasmusdtr. Skeide, f. 1782Z, døydde 1. juni 1850. Nils hadde Nilsgarden på Ulstein.
+1. Nils Anderson, f. 28. juni 1780, døydde på Ulstein 5. november 1854. Gift 2 gonger. Gift 1. med Anna Olsdtr. Ulstein. Gift 2. med Kari Rasmusdtr. Skeide, f. 1782, døydde 1. juni 1850. Nils hadde Nilsgarden på Ulstein.
 
 2. Elling Anderson, f. 24. september 1783, døydde på Overå 25. juli 1858. Gift 2 gonger. Gift 1. med enkja Eli Olsdtr. Osnes, f. på Midtflø 21. april 1776. Gift 2. med Ragnhild Pedersdtr. Overå, f. 15. september 1799, døydde 20. mars 1882.
 
@@ -3170,8 +3170,7 @@ Med Anne Olsdtr. Ulstein:
 vart gift med Lisbet Eiriksdtr. Torvik, Herøy, f. 14. mars 1820
 og døydde 1895, barnlause. Budde i Torvik, Herøy.
 
-2. Andreas, f. 1813, døypt 11. april, døydde ugift 10. fe-
-bruar 1836.
+2. Andreas, f. 1813, døypt 11. april, døydde ugift 10. februar 1836.
 
 Med Kari Rasmusdtr. f. Skeie:
 
@@ -3340,7 +3339,7 @@ IV. Kristense Olsdtr. Thorseth, f. på Finnøy 6. september 1929, g. 2. oktober 
 
 2. Aase Bjørnsdtr. Vestbø, f. 18. mai 1959.
 
-3. Ole Bjørnsson Vestbø, f. 15. Jjuli 1963.
+3. Ole Bjørnsson Vestbø, f. 15. juli 1963.
 
 2. Lars Paulsson Thorseth, f. 20. oktober 1892. Han har vore i Oslo som skreddar all si tid. Lars Thorseth hadde ord for å vera svært gavmild. I ferien reiste han alltid heim til Sunnmøre og hadde då med seg rikeleg med gåver til dei heime. Han hadde elles omsut for sine nærmaste, og der det var trong for det, var han hjelpsam på andre måtar også.
 
@@ -3463,7 +3462,7 @@ V. Palma Arnfinnsdtr. Stordal, f. 22. april 1929, g. 19. april 1958 med Henry Sl
 
 2. Jan Roger Henrysson Slettebakk, f. 7. april 1962.
 
-VI. Annbjørg Arnfinnsdtr. Stordal, f. 4. juli 1932Z, g. 19. desember 1959 med kjøpmann Johan Voldstad frå Ålesund. — Han var kjøpmann i Ålesund og dei bur der.
+VI. Annbjørg Arnfinnsdtr. Stordal, f. 4. juli 1932, g. 19. desember 1959 med kjøpmann Johan Voldstad frå Ålesund. — Han var kjøpmann i Ålesund og dei bur der.
 
 Johan Volstad døydde i mars 1968. Dei har eitt barn: Grethe, f. 12. august 1962.
 
@@ -3495,7 +3494,7 @@ II. Pål Odd Andreasson Thorseth, f. 22. mai 1927, g. 14. mai 1960 med Karin Van
 
 III. Odd Ragnar Andreasson Thorseth, f. 6. oktober 1926, g. 26. juli 1957 med Petra Sigvaldsdtr. Tomren frå Vestnes, f. 5. august 1940.
 
-Odd er fiskar og dei bur 1I farstunet på Moldtustranda. — 3 barn, 1—3:
+Odd er fiskar og dei bur i farstunet på Moldtustranda. — 3 barn, 1—3:
 
 1. Atle Oddsson Thorseth, f. 30 august 1957.
 
@@ -3592,7 +3591,7 @@ L. Jon Bertil Josefsson Ringstad, f. 3. desember 1940. Han er sjåfør.
 
 M. Ottar Andreas Josefsson Ringstad, f. 17. mars 1949.
 
-N. Berit Johanne Josefsdtr. Ringstad, f. 17. august 19952.
+N. Berit Johanne Josefsdtr. Ringstad, f. 17. august 1952.
 
 III. Henny Johansdtr. Saunes, f. 29. november 1919, g. med Arnljot Tollås frå Ulstein. Dei har eit barn: Anne Brit Arnljotsdtr. Tollås, f. 11. desember 1942.
 
@@ -3843,7 +3842,7 @@ Skøyte i 1954 på byggetomta «Bakketun», bnr. 36, frå Ole H. Tjervåg til sv
 
 1. Jan Staale Hansson Storøy, f. 17. juli 1949.
 
-2. Inge Olav Hansson Storøy, f. 8. jJanuar 1953.
+2. Inge Olav Hansson Storøy, f. 8. januar 1953.
 
 3. Oddbjørg Margrethe Hansdtr. Storøy, f. 30. mai 1954.
 
@@ -4184,7 +4183,7 @@ Kaare Melbø har styrmannsskole og var overstyrmann i utanriksfart. Han er no (1
 
 m. Rolf Emil Einarsson Engvik, f. 13. mai 1952. Han utdannar seg til elektrikar.
 
-VI. Bjarne Ludvigsson Flydal, f. 25. oktober 1932, g. med Harriet Pettersen frå AÅlesund, f. 26. juni 1934.
+VI. Bjarne Ludvigsson Flydal, f. 25. oktober 1932, g. med Harriet Pettersen frå Ålesund, f. 26. juni 1934.
 
 Bjarne Flydal er målar. Bustad: Borgundvegen 5, Ålesund. — 5 barn, 1—5:
 
@@ -4273,7 +4272,7 @@ I. Aashild Johannsdtr. Riise, f. 12. juli 1928, g. 3. juli 1952 - med Peter Skre
 
 Peter Skrede er kaptein og reiser til sjøs. Bustad: Hareid. 1 barn: Betty Lill Petersdtr. Skrede, f. 30. mars 1966.
 
-II. Solfrid Johannsdtr. Riise, f. 10. februar 1931, g. 16. februar 1952 med Odd Erik Andreassen frå Hurum i Buskerud, f. 5. juli 1925. Han tok dei 3 maskinistskolane 1952—54 og fleire kurs i tillezg. Han reiser til sjøs som chief. Bustad: Hareid. — 3 barn, 1—3:
+II. Solfrid Johannsdtr. Riise, f. 10. februar 1931, g. 16. februar 1952 med Odd Erik Andreassen frå Hurum i Buskerud, f. 5. juli 1925. Han tok dei 3 maskinistskolane 1952—54 og fleire kurs i tillegg. Han reiser til sjøs som chief. Bustad: Hareid. — 3 barn, 1—3:
 
 1. Maud Oddsdtr. Andreassen, f. 25. juni 1952. Realskole.
 2. Jon Erik Oddsson Andreassen, f. 30. august 1955. Framhaldsskole.
@@ -4500,7 +4499,7 @@ V. Norunn Gustavsdtr. Sundgot, f. 16. mars 1928, g. med Sigmund Sørebø frå Fr
 1. Hilde Sigmundsdtr. Sørebø, f. 1955.
 2. Sissel Sigmundsdtr. Sørebø.
 
-VI. Irene Gustavsdtr. Sundgot, f. 23. september 19530, g. med Johan Brandal frå Brandal på Hareid. Bustad: Brandal på Hareid.
+VI. Irene Gustavsdtr. Sundgot, f. 23. september 1930, g. med Johan Brandal frå Brandal på Hareid. Bustad: Brandal på Hareid.
 
 Johan Brandal tok styrmannsskolen og var skipper på fiskeog fangstbåtar. Han døydde i 1966 ved ulykkeshende. — 3 barn,
 1—3:
@@ -4711,7 +4710,7 @@ Peder har gått Møre Ungdomsskole, var fabrikkarbeidar og er no fabrikkeigar. B
 
 II. Ingebjørg Mikalsdtr. Dragsund, f. 31. oktober 1930. Ho har Sunnmøre Ungdomsskole og er diskdame på kafé.
 
-III. Per Mikalsen Dragsund, f. 15. september 19353. Han har realskole og 2-årig handelsgymnas.
+III. Per Mikalsen Dragsund, f. 15. september 1933. Han har realskole og 2-årig handelsgymnas.
 
 Per Dragsund vart gift med Kari Brekke frå Ørsta, f. 11. april 1936. Ho har realskole og røntgen-teknikk, no husmor. Per Dragsund er kontorsjef på Håvoll i Ørsta, og dei bur der. — 2 barn, 1—2:
 
@@ -4751,7 +4750,7 @@ I. Peter Agnar Andreasson Moldskred, f. 7. mai 1929, g. med Oddrunn Olsdtr. Mork
 1. Arnt Ove Petersson Moldskred, f. 12. september 1964.
 2. Per Einar Petersson Moldskred, f. 13. januar 1969.
 
-II. Ivar Elias Andreasson Moldskred, f. 4. Jjuli 1931, g. med Randi Alvdis Johansdtr. Havåg frå Eiksund i Ulstein, f. 14. februar 1936.
+II. Ivar Elias Andreasson Moldskred, f. 4. juli 1931, g. med Randi Alvdis Johansdtr. Havåg frå Eiksund i Ulstein, f. 14. februar 1936.
 
 Ivar var først fiskar og fangstmann. Siste åra har han hatt arbeid med oppsetting av ferdighus. Bustad: Hareid, der dei har bygt eige hus. — 4 barn, 1—4:
 
@@ -4898,7 +4897,7 @@ Randulf Saunes har teknisk skole, og han har teke fleire semester i song. Han ha
 2. Hildegunn Randulfsdtr. Saunes, f. 2. februar 1949. Eksamen artium.
 3. Arne Randulfsson Saunes, f. 16. januar 1952. Realskole.
 4. Reidar Randulfsson Saunes, f. 1956.
-5. Kjetil Randulfsson Saunes, f. 2Z. oktober 1962.
+5. Kjetil Randulfsson Saunes, f. 22. oktober 1962.
 
 IV. Odd Andreasson Saunes, f. 9. juni 1922. Han døydde 1934 ved ulukkeshende.
 
@@ -5056,7 +5055,7 @@ Midt i alt dette har Helge Saunes ikkje gløymt heimbygda. Han har skrive ein so
 utmed havet der i vest,
 ligg du kransa av små øyar
 og å livd for storm og blest.
-Imot sør i bakkehellet -
+Imot sør i bakkehellet
 kringom blenkjer våg og vik,
 :/: og mot nord i ly av fjellet
 der ligg bygda Ulsteinvik. :/:
@@ -5106,7 +5105,7 @@ I. Olav Kristiansson Dahl, f. 29. januar 1931, g. 15. desember 1956 med Magnhild
 3. Olav Olavsson Dahl, f. 27. oktober 1961.
 4. Lillemor Olavsdtr. Danhl, f. 16. juli 1969.
 
-// Todo: Henrik skal sannynlegvis ha II. ?
+// Todo: Henrik skal sannynlegvis ha II. Står I i boka?
 I. Henrik Kristiansson Dahl, f. 9. april 1935. Real- og handelsskole. Han er salssjef og vart gift med Kari Øvstegård, f. 4. november 1938. — 2 barn, 1—2:
 
 1. Astrid Henriksdtr. Dahl, f. 17. oktober 1957.
@@ -5167,7 +5166,7 @@ Kaare Knutsson har arbeid ved Smedvik Mek. Verksted, Tjøgvåg. Dei bur i Oline 
 
 II. Anna Eliasdtr. Selvåg, f. 1926. Ho døydde 1941.
 
-III. Liv Eliasdtr. Selvåg, f. 3. oktober 1928, g. 1951 med Fritz Knutsen frå AÅlesund. Fritz Knutsen er lagermann på Koperative og dei bur i Skarbøvik, Ålesund, i eiga aksjeleiligheit. Adresse: Harhauggt. 6, Skarbøvik, Ålesund. — 3 barn, 1—3:
+III. Liv Eliasdtr. Selvåg, f. 3. oktober 1928, g. 1951 med Fritz Knutsen frå Ålesund. Fritz Knutsen er lagermann på Koperative og dei bur i Skarbøvik, Ålesund, i eiga aksjeleiligheit. Adresse: Harhauggt. 6, Skarbøvik, Ålesund. — 3 barn, 1—3:
 
 1. Frank Robert Knudsen, f. 5. juni 1952.
 2. Ernst Selvåg Knudsen, f. 24. desember 1954.
@@ -5184,7 +5183,7 @@ Lars Torvik var målar. Den 1. desember 1968 måtte han slutte i arbeidet, for h
 I 1960 fekk Lars Torvik Det Kongelige Selskaps medalje med diplom for lang og tru teneste hos målarmeister B. O. Bendixen
 & Sønn, Ålesund. Bustad: Kirkegt. 14, Ålesund. — 2 barn, I—II:
 
-I. Mangolf Larsson Torvik, f. 8. januar 1920. Handelsskole. Han var også målar, men sidan 1965 har han hatt sitt arbeid ved postkontoret i Skarbøvik, AÅlesund.
+I. Mangolf Larsson Torvik, f. 8. januar 1920. Handelsskole. Han var også målar, men sidan 1965 har han hatt sitt arbeid ved postkontoret i Skarbøvik, Ålesund.
 
 Mangolf Larsson vart gift i 1944 med Kirsten Nedregard frå Ålesund, f. 1920. Kirsten har handelsskole og jobba på butikk til ho gifte seg.
 
@@ -5231,14 +5230,14 @@ II. Petter Anfinnsson Skorpen, Flåvær, f. 8. juli 1930, g. med Bjørg Johansdt
 3. Monica Jane Pettersdtr. Skorpen, f. 23. februar 1967.
 4. Johannes Pettersson Skorpen, f. 17. desember 1968.
 
-III. Johannes Anfinnsson Skorpen, f. 7. desember 19531. Han døydde 28. Jjuni 1941.
+III. Johannes Anfinnsson Skorpen, f. 7. desember 1931. Han døydde 28. juni 1941.
 
 IV. Astrid Anfinnsdtr. Skorpen, f. 3. juni 1933, g. 1953 med Odd Leonardsson Kopperstad, Herøy, f. 19. februar 1925. Han fekk skøyte i 1956 på «Solheim», bnr. 30, Kopperstad, for 1500 kroner. Stykket er fråskilt bnr. 17. Stovehus bygt i 1957. — 2 barn, 1—2:
 
 1. Leonard Oddsson Kopperstad, f. 25. mai 1954.
 2. Audun Bjørn Oddsson Kopperstad, f. 7. juni 1959.
 
-V. Sigrid Anfinnsdtr. Skorpen, Flåvær, f. 27. juni 19536, g. 1953 med Kleofas Johannesson Kvalsvik, f. 17. juli 1981.
+V. Sigrid Anfinnsdtr. Skorpen, Flåvær, f. 27. juni 1936, g. 1953 med Kleofas Johannesson Kvalsvik, f. 17. juli 1981.
 
 Kleofas fekk i 1955 skøyte frå faren på «Nygjerde», bnr. 6, for 15 000 kroner, utan kår. Han bygde sauefjøs i 1949 med
 plass til 60 vinterfødde dyr. Løa brann ned i 1961. Kleofas er
@@ -5322,7 +5321,7 @@ II. Lina Haraldsdtr. Myrene, f. 5 januar 1923 g. med Asbjørn Auran, Skatval, Sp
 
 III. Kirsti Haraldsdtr. Myrene, f. 7. mai 1924, g. med Haakon Myklebust frå Gursken, f. 24. februar 1925.
 
-Haakon arbeider 1I telegrafverket Bustad: Gurskebotn — 2 barn, 1—2:
+Haakon arbeider i telegrafverket Bustad: Gurskebotn — 2 barn, 1—2:
 
 1. Idar Haakonsson Myklebust, f. 7. august 1949.
 2. Sigrunn Haakonsdtr. Myklebust, f. 7. mai 1951.
