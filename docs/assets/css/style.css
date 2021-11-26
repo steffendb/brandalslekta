@@ -1,3 +1,13 @@
 body {
-    background-color: red;
+  background-color: red;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "DM Serif Display", serif;
+}
+
+p {
+  font-family: "Inter", sans-serif;
 }
