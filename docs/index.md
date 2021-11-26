@@ -1,3 +1,10 @@
+---
+layout: page
+title: SLEKTA FRÅ BRANDAL(BAKKEN) I SANDE
+tagline: SLEKTA FRÅ BRANDAL(BAKKEN) I SANDE
+description: SLEKTA FRÅ BRANDAL(BAKKEN) I SANDE
+---
+
 # SLEKTA FRÅ BRANDAL(BAKKEN) I SANDE
 
 Samla og fortalt av Ola Andreasson Brandal
