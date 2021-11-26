@@ -1,4 +1,4 @@
-# SLEKTA FRÅ BRANDAL(BAKKEN) I SANDE
+# Slekta frå Brandal(bakken) i Sande
 
 Samla og fortalt av Ola Andreasson Brandal
 1970
