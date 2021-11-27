@@ -9,6 +9,5 @@ function chapterList() {
 function makeChapterLink(element) {
     let item = document.createElement("a");
     item.innerHTML = element.innerHTML;
-    item.href = element.attr('id');
     console.log(item);
 }
