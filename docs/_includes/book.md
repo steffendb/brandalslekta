@@ -1,7 +1,5 @@
 # Slekta frå <br> Brandal(bakken) <br> i Sande
 
-# Slekta frå  \nBrandal(bakken) \ni Sande
-
 Samla og fortalt av Ola Andreasson Brandal
 1970
 
