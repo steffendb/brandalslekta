@@ -19,3 +19,7 @@ h1 {
     font-size: 68px;
     line-height: 1.25;
 }
+
+header {
+  display: none;
+}
