@@ -17,7 +17,12 @@ h3 {
 
 h1 {
     font-size: 68px;
+    font-size: clamp(2vw, 68px, 10vw); 
     line-height: 1.25;
+}
+
+img {
+  max-width: 100%;
 }
 
 header {
