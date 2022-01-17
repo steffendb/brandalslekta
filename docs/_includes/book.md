@@ -457,7 +457,7 @@ b. Borghild Olavsdtr. Torvik, f. 8. februar 1909, g. 1943 med Andreas Andreasson
 
 I. Anne-Lise Andreasdtr. Bø, f. 29. juli 1946, g. 22. juni 1968 med Ove Ottarsson Fremmerlid frå Volda, f. 18. mars 1942. Anne-Lise er handelsutdanna og var butikkekspeditør i Svendsens bokhandel, Volda. Ove er lagerarbeidar ved Samyrkjelaget, Volda.
 
-![Første bilde test](https://steffendb.github.io/brandalslekta/assets/img/30s.jpg)
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/30s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/30l.jpg)
 
 1. rekkja f. v.: Magnus Torvik, Olav Straume, Elise Torvik, Johannes O. Torvik med Oddrun på fanget. — Bak f. v.: Johannes J. Torvik, Paula Straume, Borghild Torvik, Dina Torvik, Petra Torvik og Jorunn Bøe, (tjenestejente). (1947).
 
