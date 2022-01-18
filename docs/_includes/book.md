@@ -76,8 +76,6 @@ d. Elling Nilsson Kvammen, f. 14. mars 1799, g. med Anne Karine Andersdtr. Ytre-
 
 3. Anne Berte Ellingsdtr. Kvammen, f. 27. februar 1830, g. kring 1855 med Lars Sevrin Larsson Myklebust, f. 1831. Lars vart kalla berre Sevrin. Han budde i Låvik, Myklebust i Herøy, og han var bror åt Johan Larsson som vart gift med Nikoline Kvammen. Lars Larsson døydde 1921.
 
-// Todo: Det over må vere feil? Lars Larsson?
-
 4. Andreas Ellingson Kvammen (Holen), f. 1833, g. med Marta Jonsdtr. Åsen frå Ørsta, f. 2. mai 1836, f. av foreldre: Jon Ivarson Åsen, Ørsta og Ingeborg E. J. Ulvestad, Volda.
 
 Andreas Ellingson var gardbrukar på Kvammen i Hareid, der han døydde 1910, og Marta Jonsdtr. døydde 24. oktober 1921.
@@ -92,9 +90,7 @@ Lars Ellingson kjøpte garden Moldskred i 1862. Han brukte garden 2 år før han
 
 e. Nils Nilsson Kvammen, f. 4. mars 1801, g. 13. november 1831 i Herøy kyrkje med Laurentse Einarsdtr. Ramstad, f. 15. juli 1802, fødd av foreldre: Einar Pederson Ramstad og kone Inga.
 
-// Feil under? Giftue?
-
-Nils N. Kvammen var gardbrukar på Sundgot i Ulstein. Før han giftue seg, tente han i mange år med Peder Botn i Ulstein. Peder var postopnar for heile Ulstein prestegjeld, men då han ikkje sjølv var skrivekunnig, laut han ha ein mann som kunne skrive det som trongst. Nils N. Kvammen var skrivekunnig, og det var han som skreiv det nødvendige både den tid han tente i Botna og sidan han vart gardbrukar på Sundgot. Det heldt han fram med til sonen til Peder Botn, Hans, kom så langt han kunne ta over skrivinga.
+Nils N. Kvammen var gardbrukar på Sundgot i Ulstein. Før han gifte seg, tente han i mange år med Peder Botn i Ulstein. Peder var postopnar for heile Ulstein prestegjeld, men då han ikkje sjølv var skrivekunnig, laut han ha ein mann som kunne skrive det som trongst. Nils N. Kvammen var skrivekunnig, og det var han som skreiv det nødvendige både den tid han tente i Botna og sidan han vart gardbrukar på Sundgot. Det heldt han fram med til sonen til Peder Botn, Hans, kom så langt han kunne ta over skrivinga.
 
 Nils Kvammen Sundgot hadde 3 barn og mellom dei var Pernille Nilsdtr., f. 1836. Ho vart gift 5. juli 1859 med lærar Lars Ingebriktson Buset frå Vartdal, f. 1832. Han var først omgangsskolelærar i Ulstein nokre år, så var han 2 år ute til sjøs. Då han kom att derifrå, gjekk han inn på Stord seminar, før hadde han gått Volda lærarskole. Då han var ferdig på Stord, vart han tilsett som lærar og kyrkjesongar i Koppervik og var der nokre år. Vart så tilsett som lærar og klokkar i Barbu ved Arendal, og han døydde der i 1916 — 84 år gammal. Pernille levde etter mannen. Nils Kvammen Sundgot og kona Laurentse flytte til Koppervik då Lars Buset var der, men då han flytte til Barbu, kom dei heimatt til Sundgot og var der til dei døydde. Dei hadde visstnok ei dotter, Anna, som vart gift i Leikongbygda, og ein son, Nils, som visstnok budde på Moltu i Herøy.
 
@@ -122,9 +118,7 @@ c. Lars Johannesson Garnes, f. 1814. 16 år gammal reiste han ut til sjøs, og h
 
 d. Gjertrud Johannesdtr. Garnes, f. 1818, g. med enkjemann Albrekt Rasmusson Måløy, f. 1813. Gardbrukar på Leikongsæter. Ikkje barn i dette ekteskapet. Gjertrud Johannesdtr. døydde 6. februar 1853. Albrekt døydde 18. september 1883.
 
-// Tippar det skal stå med og ikkje men under
-
-e. Elisabet Johannesdtr. Garnes, f. 1820, g. 26. mai 1844 med Hans Larsson Hasund, f. 1813. Elisabet døydde på barnseng, og Hans Larsson gifte seg 2. gong 31. januar 1849 men enkje Maria Sivertsdtr. Aurvåg, f. 1824. Maria døydde etter 1 års ekteskap. Hans Larsson gifte seg 3. gong med Kristine Pedersdtr. Botn, f. 1827, døydde 1896. Hans Larsson var gardbrukar i Hasund. Han døydde 1886.
+e. Elisabet Johannesdtr. Garnes, f. 1820, g. 26. mai 1844 med Hans Larsson Hasund, f. 1813. Elisabet døydde på barnseng, og Hans Larsson gifte seg 2. gong 31. januar 1849 med enkje Maria Sivertsdtr. Aurvåg, f. 1824. Maria døydde etter 1 års ekteskap. Hans Larsson gifte seg 3. gong med Kristine Pedersdtr. Botn, f. 1827, døydde 1896. Hans Larsson var gardbrukar i Hasund. Han døydde 1886.
 
 f. Johanne Amundia Johannesdtr. Garnes, f. 1823, g. 1. gong med Steinar Olson Ringstad, f. 1812. Fødd av foreldre: Ole Steinarson Ringstad, f. Osborg i Ørsta, og kone Pernille Jonsdtr., f. Årsæther i Ørsta. Steinar Olson døydde 1848, og Johanne vart g. 2. gong med Ole Rasmusson Hofset i Ulstein. Dei hadde gardsbruk på Ringstad i Ulstein. Johanne døydde 4. september 1882.
 
@@ -361,8 +355,6 @@ II. Grete Marie Petersdtr. Ledsok, f. 4. mars 1965.
 
 4. Ingrid Iversdtr. Ledsok, f. 12. mars 1900, g. 16. april 1919 med Arne Østring frå Namsos, f. 13. februar 1892. Arne har real- og handelsskole, og han var tilsett som likningssekretær i Namsos. Er no pensjonist. — 3 barn, a—c:
 
-// Sverike?
-
 a. Ingeborg Arnesdtr. Østring, f. 22. mars 1920, g. 7. Januar 1940 med Per Waldstrøm frå Kramfors, Sverike. Per er verksmeister, adr. Kramfors. — 3 barn, I— III:
 
 I. Inger Elisabet Persdtr. Waldstrøm, f. 2. september 1940. Ho er barnepleierske.
@@ -487,7 +479,7 @@ d. Petra Kornelia Olavsdtr. Torvik, f. 15. november 1911. Grunna svak helse har 
 
 e. Magnus Paulus Olavsson Torvik, f. 26. mai 1914, g. 1952 med Berte-Kanutte Fylsvik, Volda, f. 12. november 1916. Då Magnus og broren Johannes delte farsbruket i 1937, høvde det seg slik at Magnus fekk løa. Han fekk skøyte på halve farsbruket — Torviktun, br.nr. 12, i 1955, og han bygde nytt stovehus 1952. I 1955 reiv han gamleløa og bygde nytt tidhøveleg uthus. Magnus har kystskipperskolen og radiokurs. Han og broren Johannes eig 2 fiskebåtar saman, og dei er begge skipperar. Magnus har vore med i den kommunale sektor. Han har vore i kommunestyret og likningsstellet. No — 1968 — er han medlem av skolestyret og trafikknemnda.
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/32s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/32l.jpg)
 
 Berte Kanutte og Magnus Torvik.
 Barna: Olav og Steinar.
@@ -510,7 +502,7 @@ f. Dina Gudrun Olavsdtr. Torvik, f. 21. desember 1915. Ho er i Oslo og har for d
 
 a. Osvald Daniel Pedersson Leine, f. 28. juni 1914, g. 1943 med Judit Adolfsdtr. Voldsund frå Herøy, f. 4. september 1914. Bustad: Voldsund, br.nr. 26, Heimtun, som er utskilt frå 
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/33s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/33l.jpg)
 
 Judith og Osvald Leine. Barna f. v.: Sigrun — som brud — Andor, Peder og Jartrud.
 
@@ -526,7 +518,7 @@ II. Peder Osvaldsson Leine, f. 11. mai 1948. Han har realskole og eittårig kurs
 
 III. Sigrun Osvaldsdtr. Leine, f. 6. desember 1950. Eittårig kurs i kjole- og draktsaum ved Herøy yrkesskole. Ho vart gift 14. desember 1968 med Gustav Frantzen, Fosnavåg, f. 11. januar 1949. — 1 barn, Raymond, f. 25. juni 1969.
 
-// Bilde 
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/34s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/34l.jpg)
 
 Lillian og Jon Leine.
 
@@ -619,7 +611,7 @@ Foreldra til Jakob Ivarsson flytte i 1834 til Liavåg og tok over det bruket som
 
 Jakob Ivarsson fekk tidleg lære seg å skrive og vera til teneste på kontoret til lensmannen. Etter konfirmasjonen reiste han også med dei vanlege forretningane i distriktet for lensmannen, og han kom såleis godt inn i dei gjeremål.som følgjer med ombodet. Eg kan minnast han sa han ikkje ville halde
 
-// Bilde 
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/39s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/39l.jpg)
 
 Karen Andersdt. og Jakob Ivarsson Brandal.
 
@@ -641,10 +633,10 @@ I. Jørgine (Gina) Olsdtr. Slettestøl, f. 9. juni 1884. I yngre år var ho i te
 
 II. Anna Olsdtr. Slettestøl, f. 21. mars 1886, g. 31. oktober 1914 med Andreas Hope frå Lindås, f. 8. september 1886. Fødd av foreldre: Hans Hope og kone Anna, f. Kringlebotten frå Masfjorden. Anna Olsdtr. var i teneste i Bergen i mange år før ho gifta seg, mest som barnejente. Ho hadde arva mykje av sin fars talegåver, og mange ord og vendingar ho brukar kan førast tilbake på han. Andreas Hope gjekk underoffiserskolen i Bergen 1905—1908. Han vart 1914 tilsett som
 
-// Bilde 
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/41-1s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/41-1l.jpg)
 Ole Olsson Slettestøl.
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/41-2s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/41-2l.jpg)
 Andreas Hope
 
 fastlønna sersjant ved 9. regiment med ekserserplass på Ulven, fenrik 1930. Han var dessutan reiseinspektør for margarinfabrikken Ørnen, Bergen. Bustad: Bergen.
@@ -677,7 +669,7 @@ III. Knute Olsson Slettestøl, f. 23. februar 1889. Hans bestefar var Ole Olsson
 
 Knute Espenak tok til med arbeid i skogen, og etter ei tid vart han «headloader». Dette arbeid var særs godt betalt — 
 
-// Bilde 
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/43s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/43l.jpg)
 Bryndis og Odd Hope med sonen Bjørn. Bak f. v. Aagot og Anna Hompe.
 
 nær dobbelt av vanleg arbeid. Denne jobben hadde han, til han i 1914 reiste heimatt til Noreg.
@@ -726,10 +718,10 @@ I 1898 vart det oppretta postopneri i Brandal. Det fekk namnet Sørbrandal og An
 
 Anna Olsdtr. gjekk i sin ungdom husmorskolen på Egset, Volda. Ho var ei gild og hjartansgod husmor og mor. Det fall helst i meste lag av arbeid på henne, då ho forutan huset og barneflokken også måtte ta seg av fjøs og løe, for Andreas 
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/46-1s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/46-1l.jpg)
 Anna Brandal, f. Thorseth.
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/46-2s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/46-2l.jpg)
 Andreas J. Brandal.
 
 var frå 40 års alderen mykje plaga av astma og kunne såleis ikkje kome i uthusa.
@@ -809,7 +801,8 @@ Hans Jonasson vart gift i Bergen 13. juni 1887 med Anna Johannesdtr. Håberg fr�
 
 Kontorarbeidet vart i lengda alt for roleg for Hans, for han var liksom skapt til å ferdast og ha sitt yrke ute i Guds
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/50s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/50l.jpg)
+
 Kornelia (Lillemor) og Gunnstein Endresen. Barna f. v.: Ole, Tormod, John og Harald. (1966).
 
 frie natur. Etter 7 år slutta han ved kontoret og reiste heim att for å taka over farsbruket. På denne tid låg heile Åram i teigebyte med alle husa, ca. 30 i talet med store og små, samla og samanstuva i ei klynge på noverande b.nr. 3. Hans rekvirerte utskiftning på innmarka, og den vart ferdig i 1894. Bruksnr. 1 vart delt i 2 like bruk. Den fråskilde parten fekk b.nr. 5, og dermed var det på Åram fire likeverdige bruk.
@@ -836,10 +829,9 @@ Valborg Hansdtr. døydde 11. september 1945 av lungebetendelse — 57 år gammal
 
 I. Anna Olsdtr. Brandal, f. 13. desember 1916, g. 26. august 1939 med Magne Rasmusson Rotevatn, Volda, f. 29. desember 1908. Anna har ungdoms- og husmorskole og ho arbeidde
 
-// Bilde
-Valborg, f. Åram og Ola Brandal
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/52s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/52l.jpg)
 
-på kafé i Volda. Magne er handelsutdanna. I krigstida var han fabrikkarbeidar, seinare på rørleggararbeid i Fosnavåg. Så kom dei gode år i fiskeria, og Magne vart yrkesfiskar. Dei siste 7—8 åra har han vore butikkekspeditør på Steinsvik jarnvareforretning, Volda.
+Valborg, f. Åram og Ola Brandal på kafé i Volda. Magne er handelsutdanna. I krigstida var han fabrikkarbeidar, seinare på rørleggararbeid i Fosnavåg. Så kom dei gode år i fiskeria, og Magne vart yrkesfiskar. Dei siste 7—8 åra har han vore butikkekspeditør på Steinsvik jarnvareforretning, Volda.
 
 Dei hadde eitt barn: Ingfrid Magnesdtr. Rotevatn, f. 5. april 1940. Husmorskole. Ho vart gift 10. desember 1960 med Terje Stensnes frå Horten, f. 15. desember 1941. Terje er fast arbeidår i Horten kommune, mest som sjåfør. Bustad: Horten. — 3-barn, 1—3:
 
@@ -853,7 +845,8 @@ II. Hans Olsson Brandal, f. 18. november 1919. Han døydde 6. mars 1926 etter bl
 
 III. Asta Olsdtr. Brandal, f. 4. oktober 1921. Real- og handelsskole. Etter 6—7 år som butikkekspeditør i Skuggen
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/53s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/53l.jpg)
+
 Asta, f. Brandal og Svein Tafjord.
 
 kolonial i Ålesund, vart ho gift 12. desember 1953 med Svein Larsson Tafjord frå Breivika, Borgund, f. 12. september 1925. Svein har jordbruksskole, og han var i Danmark ein sommar for å setja seg inn i rasjonell gardsdrift. Han fekk av far sin skøyte på garden i 1957 for kr. 15 000. Svein bygde nytt, moderne grisehus. Då det var godt og vel ferdig kom det i vegen for den nye innfartsvegen til Ålesund. Både det nye og det gamle grisehuset vart innløyst etter takst av kommunen, og Svein er no i arbeid med eit nytt hus igjen. Dei har ikkje barn.
@@ -932,9 +925,7 @@ III. Olaug Einarsdtr. Brandal, f. 23. mars 1934, g. 12. februar 1954 med Bernt B
 
 IV. Eva Einarsdtr. Brandal, f. 18. oktober 1943. Ho har eksamen artium og sekretærlina ved Vangs Handelsskole. Er tilsett som sekretær på kontoret til ingeniørfirma Solberg & Andersen, Oslo.
 
-// San Francisco er nok meir rett under
-
-6. Ragnvald Andreasson Brandal, f. 13. april 1895. Han reiste til sjøs og etter 2 år gjekk han i land i San-Francisko. Ragnvald slo seg til i Juneau, Alaska, først som kveitefiskar og dei siste 25 åra har han drive dorging etter laks med eigen båt. — Ugift.
+6. Ragnvald Andreasson Brandal, f. 13. april 1895. Han reiste til sjøs og etter 2 år gjekk han i land i San Francisco. Ragnvald slo seg til i Juneau, Alaska, først som kveitefiskar og dei siste 25 åra har han drive dorging etter laks med eigen båt. — Ugift.
 
 1. Anna Andreasdtr. Brandal, f. 3. mars 1897. Ho var i teneste ymse stader, og 2 år var ho styrar av gamleheimen i Syvde. I 30-årsalderen vart ho sjuk og døydde på Opdøl Sjukehus 22. oktober 1944, 47 år gammal. — Ugift.
 
@@ -978,7 +969,8 @@ c. Jørgine Jakobsdtr. Brandal, f. 30. april 1858, g. 2. september 1882 med Kris
 
 Kristian var ein særs ivrig jorddyrkar og var her ein føregangsmann på mange måtar. Her vart brote og pløgt, og djupe grunnveiter sette systematisk over heile garden. Nye reiskap, nye frøsortar og nye potetslag fekk han tak i, så garden vart eit mønsterbruk i si tid. I 1890-åra fekk han alle Sandneskarane med å skipa eit fredskogfelt i Sandnesdalen, og øvst på heimegarden vart planta eit stort skogfelt. Tuntre, bøk, lerk,
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/60s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/60l.jpg)
+
 Jørgine, f. Brandal og Kristian Rasmusson Sandnes.
 
 ask og lønn vart sette i hans tid. Han fekk til slutt diplom og medalje av Landbruksselskapet og Møre fylkes skogselskap.
@@ -1128,10 +1120,10 @@ L. Martin Waldahl starta fysikalsk institutt i Kristiansand S. i 1934, på Valld
 
 Dei har eitt barn: Margareta, f. 1950. Ho har handelsskole.
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/68-1s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/68-1l.jpg)
 Olav M. Overå.
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/68-2s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/68-2l.jpg)
 Anna Overå, f. Kaldhol.
 
 2. Bertha Olavsdtr. Overå, f. 1911, g. med Peder Vetteland frå Jæren, f. 1911. Peder er elektrikar. — 2 barn, I—II:
@@ -1609,7 +1601,7 @@ e. Martinus Knutsson Hareide, f. 19. mai 1869, g. med Geirtrud Langset frå Nord
 
 Geirtrud hadde eksamen frå Elverum lærarskole, og dei var begge først tilsette som lærarar i nærleiken av Brønnøysund, Nordland. Men i 1900 kom dei sørover og vart tilsette ved V. Sandøy skole, Dypvåg herad. (No Tvedestrand kommune). — Etter ei tid vart Martinus skolestyrar. Han kom snart inn i det kommunale styre og stell, vart medlem av heradstyret og formannskapet
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/88s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/88l.jpg)
 
 Martinus og Geirtrud Hareide.
 
@@ -1647,7 +1639,7 @@ Ole Ivarsson døydde 1911 og Anne Karlsdtr. døydde 1945. — 10 barn, a—j:
 
 a. Johan Olsson Sæther, f. 1. desember 1856. Som vaksen reiste han til Ålesund, der han vart handelsbetjent med ei rik enkje etter kjøpmann Ørstavik. Endå ho var mykje eldre enn Johan, vart dei gifte og han vart dermed medeigar i forretninga. Johan Sæther var sikkert ein fiks og smart forretningsmann, men med tida vart det så som så med finansane. Han
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/91s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/91l.jpg)
 
 Anna og Bernt Brune. Barna f. v. Olga, Ingvar og Bjarne. (1950).
 
@@ -1659,7 +1651,7 @@ c. Oline Ingeborg Olsdtr. Sæther, f. 7. juni 1866, g. april 1891 med Rasmus Ber
 
 1. Bernt Olav Rasmusson Brune, f. 11. oktober 1891, g. 11. august 1917 med Anna Fransdtr. Heltne frå Alesund, f. 22. august 1892, av foreldre: Frans Olsen Heltne og Bertine, f. Nordstrand, Valderøy. I 1897 busette hennar foreldre seg på Valderøy. — Bernt var anleggsarbeidar, først på Bergensbanen og seinare på Dovrebanen og Raumabanen. Han var m. a. med i 4 år på arbeidet i Vendetunnelen på Verma i Romsdal, og i
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/92s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/92l.jpg)
 
 Olga og Oskar Hoksnes.
 Barna f. v.: Arild og Oddbjørn. (1957).
@@ -1906,7 +1898,8 @@ Karen Knutsdtr. døydde 20. oktober 1909. Daniel vart 2. gongen gift med Johanne
 
 2. Peder Mathias Danielsson Paulsen, f. 18. februar 1870, g. med Petrine Kristoffa Trondstad frå Ålesund, f. 25. september 1867. Peder var utlærd bødker, og han var i arbeid saman med far sin på verkstaden i Nedre Strandgate til bybrannen i 1904.
 
-// Bilde 
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/100s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/100l.jpg)
+
 Fremste rekka f. v.: Daniel Paulsen, Jenny Mathisen Karen Paulsen og Petrine Paulsen, f. Trondstad. — Bakre rekka f. v.: Ludvik Hjelbakk Mathisen og hans kone Gina. Invald og Peder Paulsen.
 
 Seinare var han i arbeid saman med far sin på Sandborg-brygja. Peder og Petrine hadde ikkje barn i ekteskapet, men Petrine hadde frå før ei dotter, Mathilde, gift med snikkarmeister Aandal. Han har møbelfabrikk på Ski i Østfold, og dei bur der i eige hus.
@@ -2506,7 +2499,8 @@ III. Ragna Jakobsdtr. Sande, f. 12. juli 1879. I ungdommen var ho sydame, og ho 
 
 Laurits Helland var bygningsmann, og han var mange år i Everett før han gifte seg. Han bygde sjølv bustadhuset sitt
 
-// Bilde
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/130s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/130l.jpg)
+
 Ragna Helland (på 90-årsdagen 1969).
 
 i Rockefeller ave. Han kunne såleis føre bruda si inn i ein ny, vakker heim, ikkje langt frå sentrum i byen.
@@ -3287,8 +3281,13 @@ Herø og Røvde Sparebank vart skipa i 1843 og alt i 1847 vart Ole Thorseth vald
 
 I 1855 vart Ole Thorseth innvald i heradstyret, og han var ordførar 1858—1872 og frå 1877—1886. Anna Brandal, f. Thorseth, har fortalt: «Då far var ordførar, vart bygdevegane opparbeidde i Herøy. For å greie finansieringa av dette, måtte det leggast på skattane. Då vegane stod ferdige og var betalte, ville far at dei skulle halde fram eit bel med den same skatte-
 
-[Bilde] [Bilde]
-Ole Rasmusson Thorseth. Anne Thorseth, f. Saunes.
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/167-1s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/167-1l.jpg)
+
+Ole Rasmusson Thorseth.
+
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/167-2s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/167-2l.jpg)
+
+Anne Thorseth, f. Saunes.
 
 prosenten og leggja opp eit fond som kunne vera godt å ta til i påkomande tilfelle. Dette vilde ikkje herøyværingane gå med på, så skattane vart minka att.»
 
@@ -4602,8 +4601,9 @@ Peter Larsson døydde 28. juli 1957, 89 år gammal, og Anne Gurine Nilsdtr. døy
 
 1. Nils Andreas Petersson Moldskred, f. 31. august 1893, g.
 
-[Bilde]
-Frammuanfor: Peter og Anne-Gurine Moldskred.
+[![Bilde](https://steffendb.github.io/brandalslekta/assets/img/221s.jpg)](https://steffendb.github.io/brandalslekta/assets/img/221l.jpg)
+
+Frammanfor: Peter og Anne-Gurine Moldskred.
 Bak f. v.: Leif, Agnes, Olav, Inga, Andreas, Anna, Ludvik, Petra og Nils.
 
 14. oktober 1917 med Serina Kaspara Ivarsdtr. Skeide, f. 1895. Ho var dotter av Ivar Gulliksson Skeide, Ulstein. Serina døydde 4. oktober 1918 og Nils Petersson vart gift 2. gongen med Gustava Ivarsdtr. Skeide, f. 31. juli 1891. Ho var syster til første kona.
