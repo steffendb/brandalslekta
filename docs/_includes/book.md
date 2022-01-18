@@ -1924,9 +1924,7 @@ d. Dagny Ludvigsdtr. Mathisen, f. 19. mars 1908. Også ho har «High school» og
 
 ## Ætta
 
-// Todo: Her er det noko rart, frå side 101 til 102
-
-til bestefar — Ole R. Thorseth — frå Dalsfjord i Volda (Etter prost Thorseths bok: — «Til minne om besteforeldra i Thorseth-garden, Herøy.»)
+Til bestefar — Ole R. Thorseth — frå Dalsfjord i Volda (Etter prost Thorseths bok: — «Til minne om besteforeldra i Thorseth-garden, Herøy.»)
 
 «På Sæterås i Dalsfjord, Volda, budde truleg kring 1650 og utover ein Rasmus Olson Sæterås (også kalla Åsen og Sætre). Av borna hans kjenner vi av namn ei Lisbet Rasmusdtr., vistnok gift med ein Knut Anderson Sætre. Då denne Lisbet døydde må ho ikkje ha hatt born i live etter seg, for som arvingar er i skiftet oppgjevne av syskena hennar ein bror Ole Rasmusson Åsen som då var død, men hadde etter seg flg. born:
 
