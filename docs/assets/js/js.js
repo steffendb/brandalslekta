@@ -9,5 +9,5 @@ function chapterList() {
 function makeChapterLink(element) {
     let item = document.createElement("a");
     item.innerHTML = element.innerHTML;
-    console.log(item);
+    chapterNav.appendChild(item);
 }
