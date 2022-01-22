@@ -7,7 +7,6 @@ description: Samla og fortalt av Ola Andreasson Brandal 1970
 <header>
 <details>
 <summary>Kapitler</summary>
-<nav id="chapternav"></nav>
 </details>
 </header>
 
