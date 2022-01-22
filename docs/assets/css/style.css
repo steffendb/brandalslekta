@@ -28,24 +28,49 @@ img {
 header {
   position: sticky;
   top: 0;
+  width: 100%;
+}
+
+details {
+  display: inline-block;
 }
 
 details summary {
-  background-color: #eee;
-  border: 1px solid #ccc;
-  border-radius: 2px;
+  background-color: #111;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  color: white;
   cursor: pointer;
-  padding: 7px 10px;
-}
-
-details summary > * {
-  display: inline;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding: 7px 15px;
+  text-transform: uppercase;
 }
 
 nav {
-  border: 1px solid #ccc;
-  border-radius: 2px;
+  background-color: #111;
+  border-radius: 7px;
   display: flex;
-  flex-flow: column wrap;
-  padding: 7px 10px;
+  flex-flow: column;
+  max-height: calc(100vh - 90px);
+  overflow-y: scroll;
+  padding: 7px 15px;
+  position: absolute;
+  top: 40px;
+}
+
+nav > a {
+  border-bottom: 1px solid #555;
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  max-width: 100%;
+  padding: 7px 0;
+  width: 550px;
+}
+
+nav > a:last-child {
+  border-bottom: 0;
 }
