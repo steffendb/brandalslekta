@@ -26,9 +26,26 @@ img {
 }
 
 header {
+  position: sticky;
+  top: 0;
+}
+
+details summary {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  cursor: pointer;
+  padding: 7px 10px;
+}
+
+details summary > * {
+  display: inline;
 }
 
 nav {
+  border: 1px solid #ccc;
+  border-radius: 2px;
   display: flex;
   flex-flow: column wrap;
+  padding: 7px 10px;
 }
